@@ -129,7 +129,7 @@ Refleja los motivos por los cuales ingresa dinero o sus equivalentes a la empres
 
 En base a esto, en el diseño de los subdiarios tendremos dos grupos de columnas, un grupo de _cuentas deudoras_, y otro grupo de _cuentas acreedoras_. Al haber tantas transacciones posibles, las cuentas que seleccionemos nunca serán suficientes. Por eso se utiliza la columna _Cuentas Varias_, tanto en cuentas deudoras como acreedoras, donde se registrarán los movimientos menos repetitivos, ampliando así la posibilidad de registros y evitando la necesidad de acudir al Libro Diario General.
 
-![Modelo Subdiario Caja Ingresos](../media/CFE/u1-SubdiarioCajaIngreso.png)
+![Modelo Subdiario Caja Ingresos](../media/CFE/U1-SubdiarioCajaIngreso.png)
 
 ### Subdiario Caja Egresos
 
