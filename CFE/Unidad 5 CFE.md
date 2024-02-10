@@ -295,7 +295,11 @@ Siguiendo las disposiciones de ordenamiento de rubros según su grado de liquide
 
 ## Información complementaria
 
-En el caso del rubro inversiones, cuando sea necesario pueden adicionarse Notas y anexos.
+En el caso del rubro inversiones, cuando sea necesario pueden adicionarse notas y anexos.
 
-- Notas: se informa acerca de las normas contables que se hayan empleado, por ejemplo. A\_ Criterios de medición: “el efectivo disponible se ha computado a su valor nominal” B\* Composición: “el rubro está compuesto de la siguiente manera, plazo fijo, títulos y acciones, etc.”.
-- Anexo: (El anexo puede ser identificado con un número o una letra). Cuando existan inversiones en acciones y otros valores negociables o participación en otras sociedades, debe presentarse el anexo describiendo lo siguiente: Clase, valor nominal, cantidad, valor de costo ajustado, valor de cotización, valor patrimonial proporcional, valor registrado año actual, valor registrado año anterior. También debe informarse en el anexo lo referente al ente emisor, la actividad principal, fecha del último estado contable, capital social, resultados del último estado contable, patrimonio neto del último estado contable, porcentaje de participación sobre el capital social, importe en pesos sobre los votos, etc.
+En las **notas** se informa acerca de las normas contables que se hayan empleado, por ejemplo.
+
+- Criterios de medición: “el efectivo disponible se ha computado a su valor nominal”.
+- Composición: “el rubro está compuesto de la siguiente manera, plazo fijo, títulos y acciones, etc.”.
+
+En cuanto al **anexo**, cuando existan inversiones en acciones y otros valores negociables o participación en otras sociedades, debe presentarse el anexo describiendo lo siguiente: Clase, valor nominal, cantidad, valor de costo ajustado, valor de cotización, valor patrimonial proporcional, valor registrado año actual, valor registrado año anterior. También debe informarse en el anexo lo referente al ente emisor, la actividad principal, fecha del último estado contable, capital social, resultados del último estado contable, patrimonio neto del último estado contable, porcentaje de participación sobre el capital social, importe en pesos sobre los votos, etc.
