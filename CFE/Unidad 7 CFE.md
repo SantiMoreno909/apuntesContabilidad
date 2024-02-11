@@ -138,7 +138,7 @@ Estas cuestiones impactan directamente en la materia de **Contabilidad Financier
 
 Al ser este sistema de registración inmediata, el costo de la mercadería vendida queda determinado en cada venta. En este sistema de inventario permanente se necesita emplear fichas de existencia de mercadería valorizadas que permiten conocer en cualquier momento el stock en unidades y su correspondiente valor de costo (fichas de stock). Estas fichas cumplirían la función de submayores o mayores auxiliares de las cuentas mercaderías (empresa comercial) y materias primas o productos terminados (empresas industriales). Un modelo gráfico de este sistema sería:
 
-INSERTAR GRÁFICA
+![Modelo Planilla de inventario](../media/CFE/U7-Inventario.png)
 
 En las “salidas” se registran por fecha la cantidad de unidades vendidas pero el precio unitario de cada unidad será el precio de costo y no el de venta, utilizando el primer o último precio (FIFO – LIFO) o el promedio (CPP) según el criterio preestablecido.
 
@@ -150,13 +150,13 @@ Cuando la empresa comercializa un solo producto o cuando los bienes tienen ident
 
 Consiste en registrar las salidas de bienes vendidos o consumos al costo de la primera compra, ósea al costo unitario de las primeras unidades o unidades más antiguas, e ir pasando a los precios subsiguientes a medida que los "grupos" de unidades a un determinado costo se van agotando. Como consecuencia de esa salida del costo más antiguo, en un contexto inflacionario, el costo de venta será menor y la existencia final mayor al estar valuada en función de los cotos unitarios más recientes. En un contexto con alta variación de precios, el CMV estará subvaluado, lo que tendrá incidencia en el resultado del ejercicio, generando una utilidad mayor o una menor pérdida.
 
-INSERTAR GRÁFICA
+![Inventario P.E.P.S.](../media/CFE/U7-PEPS.png)
 
-### Método Primero Entrado Ultimo Salido (P.E.U.S.)
+### Método Último Entrado Primero Salido (U.E.P.S.)
 
 Es como el anterior, pero con la diferencia de que, en vez de utilizar los precios más viejos, se utilizan los de las últimas unidades ingresadas. A través de este método y en comparación con los otros, el CMV será mayor y la EF será menor, ya que va a ser valuada considerando los costos unitarios de las unidades más antiguas.
 
-INSERTAR GRÁFICA
+![Inventario U.E.P.S.](../media/CFE/U7-UEPS.png)
 
 ### Método del Costo Promedio Ponderado (C.P.P.)
 
@@ -164,7 +164,7 @@ Este método consiste en registrar las bajas o salidas de bienes al costo promed
 
 El costo promedio obtenido no sólo es para valuar las salidas de bienes, sino también a las existencias, por ende, el valor de costo de venta y de la existencia final se ubica entre los valores determinados por los métodos anteriores.
 
-INSERTAR GRÁFICA
+![Inventario C.P.P.](../media/CFE/U7-CPP.png)
 
 ## Tareas al cierre
 
