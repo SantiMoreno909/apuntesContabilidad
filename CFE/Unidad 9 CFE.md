@@ -1,4 +1,4 @@
-# Bienes de cambio
+# Bienes de uso
 
 ## Conceptos doctrinario y normativo
 
