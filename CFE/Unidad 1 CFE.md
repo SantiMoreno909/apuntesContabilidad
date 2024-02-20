@@ -4,7 +4,7 @@
 
 El **objeto** de la contabilidad es brindar información referida a la situación patrimonial y financiera, de resultados (económicos) y de evolución del Patrimonio Neto. El **fin** de la misma es ayudar a tomar decisiones económicas y ejercer el control de gestión por parte de usuarios internos y/o externos.
 
-En cuanto a sus **objetivos**, la contabilidad tiene como taales la medición del patrimonio, la determinación de los resultados y la exposición de la información. Para cumplir con ellos se requiere de un proceso que se aalimenta de datos brutos para obtener a partir de ellos datos útiles para ser utilizados por los usuarios. A este proceso se le llama **Proceso Contable**. Dicho proceso contable reconoce tres etapas:
+En cuanto a sus **objetivos**, la contabilidad tiene como tales la medición del patrimonio, la determinación de los resultados y la exposición de la información. Para cumplir con ellos se requiere de un proceso que se alimenta de datos brutos, para obtener a partir de ellos datos útiles para ser utilizados por los usuarios. A este proceso se le llama **Proceso Contable**. Dicho proceso contable reconoce tres etapas:
 
 ## Etapas del proceso contable
 
@@ -14,24 +14,24 @@ En este punto se utiliza un soporte llamado **comprobante**, que es un formulari
 
 ### 2\_ Proceso contable propiamente dicho
 
-Es donde se processan estos datos para transformarlos en información contable. Se desarrollan cuatro funciones:
+Es donde se procesan estos datos para transformarlos en información contable. Se desarrollan cuatro funciones:
 
 1. Clasificación de los datos en cuentas.
-2. Cálculo para asignar un valor al hecho económico.
+2. Valoración del hecho económico.
 3. Registración de los mismos, mediante asientos contables, utilizando el método de la partida doble y respetando la clasificación de cuentas.
 4. Almacenamiento de los registros contables.
 
-En esta etapa los soportes de almacenamiento de la información son las cuentas y los registros contables. Los registros **obligatorios** por ley son el **Libro Diario General** y el **Libro de Inventarios y Balances**. Como _no obligatorio_, tenemos al libro mayor, que en caso de servir como medio de prueba, pasa a ser considerado obligatorio.
+En esta etapa los soportes de almacenamiento de la información son las cuentas y los registros contables. Los registros **obligatorios** por ley son el **Libro Diario General** y el **Libro de Inventarios y Balances**. Como _no obligatorio_, tenemos al Libro Mayor, que, en caso de servir como medio de prueba, pasa a ser considerado obligatorio.
 
-### Salida de la información contable
+### 3\_ Salida de la información contable
 
 En esta etapa se pone a conocimiento y disposición de los usuarios la información contable útil. El soporte de salida de la información son los **Estados Contables**, que comprenden los **Estados Contables Básicos** (ESP, ER, EEPN y EFE), y la **Información complementaria** (Notas, anexos y encabezado).
 
-## Premisas del proceso contable
+### Premisas del proceso contable
 
 Una **premisa** es una afirmación o idea que se da como cierta, y que sirve de base a un razonamiento o discusión. En la contabilidad, existen las siguientes:
 
-1. **Ecuación contable fundamental**. Determina que _Activo = Pasivo + Patrimonio Neto_. Esta ecuación significa que dentro del activo tenemos todos los recursos económicos que tiene la empresa, y que su origen pudo derivar de dos fuentes de financiamiento: **Propias** (Patrimonio Neto) y **Ajenas** (Pasivo).
+1. **Ecuación contable fundamental**. Determina que `Activo = Pasivo + Patrimonio Neto`. Esta ecuación significa que dentro del activo tenemos todos los recursos económicos que tiene la empresa, y que su origen pudo derivar de dos fuentes de financiamiento: **Propias** (Patrimonio Neto) y **Ajenas** (Pasivo).
 2. **Método de registración por partida doble**: Es una técnica de registración que consiste en debitar una o más cuentas y acreditar una o más cuentas, siempre verificando la igualdad de la suma de movimientos producidos en el _debe_ y en el _haber_. Todo hecho económico tiene su origen en otro hecho del mismo valor pero de naturaleza contraria.
 3. **Registración de los hechos económicos-financieros en base devengada**: La imputación de los hechos se sustenta en la base devengada, no en el criterio de lo percibido. El **criterio de lo devengado** dice que los efectos patrimoniales de las transacciones o hechos deben reconocerse en el ejercicio y momento en el cual ocurren, con independencia de la fecha de su pago o de su cobro.
 4. **Normas técnicas contables**: Con respecto a las normas técnicas, se registra siempre por el criterio jurídico, que casi siempre coincidirá con el criterio económico, ya que se debe respetar la ley. El criterio jurídico está dado por el Código Civil y Comercial de la Nación, la Ley General de Sociedades y las Normas Contables (Resoluciones Técnicas). Cuando estos criterios no coinciden, como en el caso de los créditos por especie tipificados en el CCyC, se da entonces preeminencia a la realidad económica. En síntesis, la norma es registrar de acuerdo al criterio legal, y, como excepción, se registra bajo el criterio económico.
@@ -50,17 +50,17 @@ El SIC se compone del Subsistema de Información Interno, y de un Subsistema de 
 
 ### Componentes del Subsistema de Información de Uso Interno
 
-1. Área que fijan objetivos y políticas: En ella están los dueños y accionistas que fijan las políticas de crecimiento, rentabilidad, sueldos, etc.
-2. Área de planeamiento: Planifican acciones financieras, económicas y técnicas para alcanzar los objetivos que se plantearon.
-3. Información gerencial: Esta área elabora informes para los responsables que conducen la empresa. Todos estos informes brindan:
-   - Perspectiva financiera: sobre rentabilidad, liquidez, ciclos de cobranzas y pagos, etc.
-   - Perspectiva del cliente: Objetivos de ventas totales, ventas al mercado local y externo, participación en el mercado local.
-   - Perspectiva del proceso interno: Rotación del stock, capacidad de producción, máxima de ausentismo, personal temporario, etc.
-   - Perspectiva social externa: Cómo nos ve la comunidad.
-   - Perspectiva social interna: Cómo nos ven nuestros empleados.
-4. Área de ejecución: Encargada de la actividad operativa.
-5. Área de control: El objetivo de esta área es estudiar las causas que producen las variaciones entre lo planificado y lo ejecutado.
-6. Oportunidades y restricciones del mercado.
+1. **Área que fijan objetivos y políticas**: En ella están los dueños y accionistas que fijan las políticas de crecimiento, rentabilidad, sueldos, etc.
+2. **Área de planeamiento**: Planifican acciones financieras, económicas y técnicas para alcanzar los objetivos que se plantearon.
+3. **Información gerencial**: Esta área elabora informes para los responsables que conducen la empresa. Todos estos informes brindan:
+   - _Perspectiva financiera_: Sobre rentabilidad, liquidez, ciclos de cobranzas y pagos, etc.
+   - _Perspectiva del cliente_: Objetivos de ventas totales, ventas al mercado local y externo, participación en el mercado local.
+   - _Perspectiva del proceso interno_: Rotación del stock, capacidad de producción, máxima de ausentismo, personal temporario, etc.
+   - _Perspectiva social externa_: Cómo nos ve la comunidad.
+   - _Perspectiva social interna_: Cómo nos ven nuestros empleados.
+4. **Área de ejecución**: Encargada de la actividad operativa.
+5. **Área de control**: El objetivo de esta área es estudiar las causas que producen las variaciones entre lo planificado y lo ejecutado.
+6. **Oportunidades y restricciones del mercado**.
 
 ### Componentes del Subsistema de Información de Uso Externo (el que nos interesa en esta materia)
 
@@ -169,8 +169,8 @@ Una vez se termina de registrar en todos los subdiarios, corresponde hacer el tr
 
 | Cuenta                                                     | Debe | Haber |
 | ---------------------------------------------------------- | ---- | ----- |
-| a Varios                                                   |      |       |
-| Caja                                                       |      |       |
+| Varios                                                     |      |       |
+| a Caja                                                     |      |       |
 | Por egresos del mes, según Subdiario de Ingresos Folio "x" |      |       |
 
 - **Asiento por Subdiario Ventas a Crédito**:
@@ -219,7 +219,7 @@ Este balance puede comprobar o analizar cuantitativamente los saldos de las cuen
 - De servir como base para el análisis conceptual de los saldos del Libro Mayor.
 - De servir para la preparación de los informes contables.
 
-Los objetivos señalados por la doctrina son:
+Los **objetivos** señalados por la doctrina son:
 
 1. **Control de la mayorización**: Comprueba si los pases del libro Diario al Mayor se hicieron en su totalidad.
 2. **Verificar el cumplimiento del equilibrio Débito-Crédito**
@@ -237,7 +237,7 @@ Cabe resaltar que este balance es solo válido para el caso de medios manuales d
 En cuanto a **diseños**, los prebalances se confeccionan en una hoja de trabajo que contiene un conjunto de columnas de datos, tanto cualitativos como cuantitativos, siguiendo generalmente esta estructura:
 
 1. Narrativas o cualitativas: Con una columna para el código de la cuenta, y una columna para el nombre de la cuenta, ordenadas de acuerdo con el plan de cuentas.
-2. Valorativas o cuantitativas: Con un columna doble (debe y haber) para la suma de los movimientos; una columna doble para los saldos tanto deudores como acreedores; una columna doble para movimientos de ajuste tanto deudores como acreedores, una coluna doble para los saldos ajustados tanto deudores como acreedores; una clumna doble para los saldos patrimoniales (A = P + PN); y una columna doble para los saldos diferenciales (egresos al debe mas ingresos al haber).
+2. Valorativas o cuantitativas: Con un columna doble (debe y haber) para la suma de los movimientos; una columna doble para los saldos tanto deudores como acreedores; una columna doble para movimientos de ajuste tanto deudores como acreedores, una columna doble para los saldos ajustados tanto deudores como acreedores; una columna doble para los saldos patrimoniales (A = P + PN); y una columna doble para los saldos diferenciales (egresos al debe mas ingresos al haber).
 
 Sobre las **oportunidades para su confección**, se suele hacer en períodos menores al ejercicio económico, generalmente de forma mensual, aunque en las empresas financieras su confección es diaria. Como podemos ver, su confección depende del tipo de empresa, de los deseos de sus administradores, y de la mayor o menor necesidad de control. Además, siempre se confecciona al final del ejercicio, previo a la confección del **Balance General**, con el fin de que los Estados Contables del ente revelen con la mayor exactitud posible la situación patrimonial y la evolución del Patrimonio Neto ocurrido en el período.
 
@@ -246,7 +246,7 @@ Sobre los **asientos de ajuste**, su finalidad es la correción de los saldos de
 1. Corregir errores u omisiones;
 2. Utilizar correctamente la base devengada para imputar los hechos económicos;
 3. Corregir la inexistencia de operaciones de registros diferidos;
-4. Corregir cualqueir circunstancia donde los datos a procesar no se evidencien de forma explícita en la documentación de respaldo.
+4. Corregir cualquier circunstancia donde los datos a procesar no se evidencien de forma explícita en la documentación de respaldo.
 
 Debe tenerse en cuenta que los asientos de ajuste son de caracter especial y no repetitivos, y que deben realizarse directamente en el Libro Diario General, y no así en Subdiarios. En cuanto a los tipos de asientos de ajustes posibles, tenemos:
 
@@ -283,9 +283,9 @@ Algunos criterios importantes a tener en cuenta en los Modelos Contables tiene q
 
 ## Introducción a los Estados Contables
 
-Como introducción alos mismos, podemos tomar el **marco conceptual** previsto por la **R.T. N° 16**, que indica:
+Como introducción a los mismos, podemos tomar el **marco conceptual** previsto por la **R.T. N° 16**, que indica:
 
-**Objetivos**: El objetivo principal es proveer sobre el patrimonio del ente emisor una fecha (FC), y su evolución económica y financiera por el período que abarca (ejecución económica), para facilitar la toma de decisiones económicas.
+**Objetivos**: El objetivo principal es proveer información sobre el patrimonio del ente emisor a una fecha determinada (FC), y su evolución económica y financiera por el período que abarca (ejecución económica), para facilitar la toma de decisiones económicas.
 
 **Requisitos**:
 
@@ -295,7 +295,8 @@ Como introducción alos mismos, podemos tomar el **marco conceptual** previsto p
 4. Verificabilidad;
 5. Sistematicidad;
 6. Claridad;
-7. Equilibrio entre costos y beneficios.
+7. Comparabilidad;
+8. Equilibrio entre costos y beneficios.
 
 **Elementos de los Estados Contables**:
 
