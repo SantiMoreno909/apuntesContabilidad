@@ -105,7 +105,7 @@ Se produce mediante:
 - La entrega de efectivo u otro activo.
 - La prestación de un servicio.
 - El reemplazo de la obligación por otro pasivo (refinanciación de deudas).
-- La conversión de la deuda en capital (cuando debemos dinero, pero le ofrecemos asociarse a nosotros, desaparecía la deuda y el acreedor pasaría a ser socio).
+- La conversión de la deuda en capital (cuando debemos dinero, pero le ofrecemos asociarse a nosotros, desaparecería la deuda y el acreedor pasaría a ser socio).
 - Por la renuncia o la pérdida de los derechos por parte del acreedor (ejemplo: la prescripción de los impuestos, cuando pasa un tiempo y no pague los impuestos y el fisco o Estado no reclama, prescriben).
 
 ### Propietarios como acreedores

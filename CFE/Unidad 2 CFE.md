@@ -168,8 +168,8 @@ Este, se incluye en la primera hoja precediendo a los estados contables básicos
 
 - Identificación de los estados contables: Identificación de la fecha de cierre y del período comprendido que toman los estados contables que se exponen.
 - Identificación de la moneda de cierre (moneda homogénea)
-- Identificación del ente: Denominación, domicilio legal forma legal y duración.
-- Capital del ente: exposición del monto y composición del capital y en su caso, cantidad y características de las distintas clases de acciones en circulación y en cartera. Información sobre el capital total suscripto, que puede estar totalmente integrado o no.
+- Identificación del ente: Denominación, domicilio legal, forma legal y duración.
+- Capital del ente: Exposición del monto y composición del capital y en su caso, cantidad y características de las distintas clases de acciones en circulación y en cartera. Información sobre el capital total suscripto, que puede estar totalmente integrado o no.
 - Actividad principal del ente.
 
 ### Notas
@@ -178,7 +178,7 @@ Las notas incluyen información en forma narrativa que contiene datos numéricos
 
 Ya que la R. T. N° 9 en su modelo contable de presentación de estados contables no incluye notas y anexos, esto permitió a la doctrina desarrollar la información complementaria de acuerdo al criterio profesional. Las notas que deberían presentarse de acuerdo a las normas técnicas vigentes son:
 
-- **Nota 1**: Normas legales y técnicas utilizadas (acá se aclara que modelo y que R.T. N° se usó. Por ejemplo: “se tuvo en cuenta la RT8).
+- **Nota 1**: Normas legales y técnicas utilizadas (acá se aclara qué modelo y qué R.T. N° se usó. Por ejemplo: “se tuvo en cuenta la RT8).
 - **Nota 2**: Composición y evolución de los rubros (Por ejemplo: el rubro caja y banco se compone de).
 - **Nota 3**: Criterios de valuación (costo histórico o valores corrientes).
 - **Nota 4**: Gravámenes sobre activos (ejemplo: un inmueble con hipoteca).
@@ -193,7 +193,7 @@ Ya que la R. T. N° 9 en su modelo contable de presentación de estados contable
 - **Nota 13**: Información de acuerdos de arrendamiento.
 - **Nota 14**: Información sobre aspectos puntuales de llaves de negocio positiva o negativa (Compra de acciones de carácter permanente).
 - **Nota 15**: Información complementaria sobre combinación de negocios o unificación de intereses.
-- **Nota 16**: información complementaria sobre el resultado por acción.
+- **Nota 16**: Información complementaria sobre el resultado por acción.
 
 Es oportuno indicar que las partidas contenidas en el Estado De Situación Patrimonial y en el Estado de Resultados serán las que principalmente requieran notas, dado el grado de información sintética que tienen y el interes por el origen de dichos montos, que se verán contenidos en la información complementaria expuesta en las notas y anexos.
 
