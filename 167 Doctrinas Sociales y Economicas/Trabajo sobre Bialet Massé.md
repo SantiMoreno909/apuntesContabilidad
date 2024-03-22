@@ -59,7 +59,7 @@ Esto se observa perfectamente en el siguiente cuadro, en el cual partimos de la 
 | Concepto                      | Obrero       | Contratista                |
 | ----------------------------- | ------------ | -------------------------- |
 | Ingreso mensual               | 40           | 2000                       |
-| Calidad del corte             | Calidad Base | Calidad Premium (Base + 3) |
+| Calidad del corte             | Calidad Base | Calidad Premium (Base + 4) |
 | Valor del corte               | 20 centavos  | 1 peso                     |
 | IVA sobre el corte            | 4 centavos   | 21 centavos                |
 | Cantidad mensual consumida    | 37.3 kg      | 56 kg                      |
