@@ -2,7 +2,7 @@
 
 ## Ocupación de los economistas y contadores
 
-En el caso de los economístas, la ocupación de los mismos no solo se encuentra en identificar y registrar las variaciones macro y micro económicas que se presentan en el día a día, sino también analizarlos, en base a la información que tengan disponible, con el objetivo primordial de comprender los sucesos y hechos que originaron esas variaciones, a fin de elaborar con esa comprensión nuevas teorías que mejores o corrijan a las anteriores.
+En el caso de los economistas, la ocupación de los mismos no solo se encuentra en identificar y registrar las variaciones macro y micro económicas que se presentan en el día a día, sino también analizarlos, en base a la información que tengan disponible, con el objetivo primordial de comprender los sucesos y hechos que originaron esas variaciones, a fin de elaborar con esa comprensión nuevas teorías que mejores o corrijan a las anteriores.
 
 Por su parte, los contadores, su tarea es la de llevar cuenta y razón precisa de las cantidades económicas que el economista contempla, originadas en hechos pasados, en base a determinadas nociones y principios que le servirán de guía para esta tarea.
 
@@ -26,11 +26,11 @@ El **Pensamiento Económico** comprende todo lo que se ha escrito sobre la activ
 - Emisión de juicios de valor;
 - Proposiciones de reformas.
 
-Debe tenerse en consideración que, de acuerdo con el marco institucional que se adopte en una sociedad, serán los mecanismos económicos y sociales que se observarán, por lo cual, el anpalisis de dichos marcs institucionales, así como de las disposiciones psicológicas y culturales de los diferentes pueblos también será tarea de la economía.
+Debe tenerse en consideración que, de acuerdo con el marco institucional que se adopte en una sociedad, serán los mecanismos económicos y sociales que se observarán, por lo cual, el análisis de dichos marcs institucionales, así como de las disposiciones psicológicas y culturales de los diferentes pueblos también será tarea de la economía.
 
 ## Concepto de Análisis Económico
 
-El **Análisis Económico** estudia las cuestiones de cómo se comporta la gente en cualquier momento dado, y cuáles son los efectos económicos que estos comportamientos producen. El autor _Schumpeter_ decía que el registro histórico de estos comportamientos y hechos no puede limitarse solo a lo económico, dado que ello limitaría el análisis económico, sino que lo que debe hacerse es, además de lo económico, también llevar el registro de los desarrollos alcanzados por otras ciencias en forma contemporanea, en la medida en que estas tengan importancia para el análisis económico. Esto lo llevó a interrelacionar la Economía con la Sociología, la Lógica, la Psicología y la Filosofía.
+El **Análisis Económico** estudia las cuestiones de cómo se comporta la gente en cualquier momento dado, y cuáles son los efectos económicos que estos comportamientos producen. El autor _Schumpeter_ decía que el registro histórico de estos comportamientos y hechos no puede limitarse solo a lo económico, dado que ello limitaría el análisis económico, sino que lo que debe hacerse es, además de lo económico, también llevar el registro de los desarrollos alcanzados por otras ciencias en forma contemporánea, en la medida en que estas tengan importancia para el análisis económico. Esto lo llevó a interrelacionar la Economía con la Sociología, la Lógica, la Psicología y la Filosofía.
 
 ## La Economía
 
@@ -51,7 +51,7 @@ El profesor Caro decía que la misión de la economía debe ser vencer la escase
 
 El dinero surge a partir de la necesidad de las personas de tener una forma estandarizada o unificada de realizar sus intercambios, ya sea de bienes o servicios, dado que, antiguamente, se utilizaba el trueque directo, es decir, intercambiar bienes por otros, servicios por otros, o bienes por servicios. Esto, sin embargo, no permitía precisión en la determinación del valor de bienes y servicios, dado que no existía un patrón determinado.
 
-Con el tiempo, se comenzó a utilizar metales preciosos como moneda de cambio. Sin embargo, y más alla de que resultaron ser mucho más útiles que el trueque, estas monedas se veían propensas a falsificaciones y alteraciones, debido a que dependían de su peso y pureza para determinarse su valor.
+Con el tiempo, se comenzó a utilizar metales preciosos como moneda de cambio. Sin embargo, y más allá de que resultaron ser mucho más útiles que el trueque, estas monedas se veían propensas a falsificaciones y alteraciones, debido a que dependían de su peso y pureza para determinarse su valor.
 
 Esto, junto con otras cuestiones más complejas, llevó a la utilización del dinero como lo conocemos hoy en día, títulos de deuda con un valor numérico determinado, que permiten utilizar dichos títulos para el intercambio de bienes y servicios entre los distintos actores económicos, y en cuyo sistema toman gran importancia los Bancos Centrales de cada país que emite moneda.
 
