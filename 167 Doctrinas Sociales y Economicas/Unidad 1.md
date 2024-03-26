@@ -8,7 +8,7 @@ Por su parte, los contadores, su tarea es la de llevar cuenta y razón precisa d
 
 En síntesis, podemos afirmar que los contadores se dedican al registro de hechos económicos pasados, buscando la mayor certeza posible sobre los mismos, en base a los cuales luego elaborará informes, que, entre otras cosas, servirán de información a los economistas para la elaboración de sus teorías.
 
-## Hechos y Teoría
+## Doctrina y Teoría
 
 La **Teoría** es una actividad científica que consiste en observar un fenómeno económico o social, interpretarlo y describirlo de modo abstracto, claro, certero y general. Explica cómo es la cosa o el hecho con objetividad y sin emitir juicio de valor a cerca de ella. Por tanto, sirve para poder entender y explicar un fenómeno de modo tal que, frente a hechos, sucesos o manifestaciones similares, podamos saber con bastante certeza de qué se trata y cómo obrar en base a ello.
 
