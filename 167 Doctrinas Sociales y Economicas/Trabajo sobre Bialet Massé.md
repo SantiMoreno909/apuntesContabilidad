@@ -12,6 +12,8 @@ La mejor forma de contextualizar el sentido de toda la obra analizada, así como
 
 Con esta idea central en mente, la de justamente exponer las llagas a la vista, para poder identificarlas y curarlas, es que procedemos entonces con el análisis de la obra.
 
+<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
+
 ## 2. Contexto histórico
 
 En esta época, Argentina se encontraba en miras del mundo, no solo por su inminente centenario, sino por sus promesas de una especie de "sueño americano" a lo criollo, prometiéndose grandes fortunas a quienes tuviesen el valor de venir a trabajar nuestras tierras. Nuestro fuerte modelo agroexportador nos volvía, en su momento, una potencia económica mundial, ganandonos el apodo de "El granero del mundo", e incluso suscitando cuestiones como la famosa frase parisina "Il est riche comme un Argentin".
@@ -22,29 +24,57 @@ Un indicio de esto lo tenemos en los sucesos previos al centerario, en 1.910, cu
 
 Todos esos sucesos pudieron preveerse con una detallada lectura del informe del Dr. Massé, pero, ¿Quién fue este hombre? Y, por sobre todo, ¿Por qué fue tan importante?
 
+<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
+
 ## 3. Sobre Juan Bialet Massé
 
-Fabri
+Juan Bialet Massé, nacido en España, fue considerado una de las mejores y más brillantes mentes de su época, pero para que esta brillante mente empiece a funcionar, llevo su tiempo, ya que el mismo reconoce que era un bobo, ya que con 14 años termino el primario, pero luego de su despertar termino sus estudios secundarios en 2 años, y a sus 20 ya era médico, lo que habla de la enorme fuerza de voluntad, determinación y capacidad de este hombre. En 1968 ante los tiempos de convulsiones en España, Bialet Massé participa en la revolución de dicho año, que provoca la caída de la reina Isabell 2, pero el nuevo gobierno lo desencanta, dado que no encaja con sus ideales republicanos y democráticos, por lo que decide llegar a la Argentina.
+Por su prestigio como investigador y médico, lo convocan desde la Universidad de Córdoba para dictar la catedra de medicina legal, a la cual rechazo, ya que, al ser extranjero, desconocía las leyes de nuestro pais, por lo cual decide estudiar derecho, y en el tiempo récord de tan solo 20 meses, se recibe de abogado. Tras su prestigio académico, la política lo llama, primero como concejal por la ciudad de Córdoba, luego como presidente del consejo deliberante.
+Durante su mandato se concretaron diversas obras, como las de gas y de agua corriente. En esos años conoce a quien será su compañero y su dupla de proyectos, el Ing. Carlos Cassaffousth, esperándoles a ambos grandes proyectos, y tambien la cárcel. Con su compañero, encararía su mayor proyecto, y considerado por grandes genios de la ingeniería, como la obra más importante del mundo (de esos tiempos). **La construcción del dique san roque**, una obra monumental que fue construida con materiales de la empresa de Bialet Massé (llamada _La Nueva Argentina_) la cual proveía de cementos y cales hidráulicas a un costo mucho menor que los materiales importados.
+Con la caída del gobierno de Juárez Celman, principal impulsor de las obras de Massé, el nuevo gobernador de la provincia de Córdoba (Pizarro) quiere hacer una profunda investigación de todo lo que tenga el sello de Juárez Celman, y el dique San Roque esta primero en la lista. El gobernador contrata a un ingeniero extranjero para hacer una auditoria al dique, y asegura que el mismo está mal hecho, ante esto Massé y el Ing. Cassaffousth quedan detenidos. Massé está solo y, con el apoyo de nadie, decide preparar su propia defensa, recaudando fotos, datos, y todo material de prueba a su favor. Luego de un año Massé y compañía quedan en libertad, y tras el bochorno el gobernador Pizarro decide renunciar a la gobernación, Tras la muerte de su socio y amigo Cassaffousth, provoca un quiebre en la vida de Bialet Massé y decide volver al área de la docencia y la investigación, por lo cual lo espera otro proyecto de gran magnitud, el ministro del interior Joaquín V. Gonzales lo convoca para realizar el informe sobre las clases obreras, en el cual se adentrara en una aventura por todo el pais, para realizar una exhaustiva investigación sobre los derechos de los trabajadores de la República Argentina, a principios del siglo XX.
+
+<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 4. El estado de las industrias
 
-Agos
+<blockquote>Autor de la sección: Gomez Villafañez, Denise Agostina</blockquote>
 
 ## 5. La duración de la jornada
 
-Fabri
+El tiempo de trabajo o duración de la jornada laboral era una de las principales manifestaciones que realizaba la clase obrera, ya que se buscaba que se limitara la extensión de las mismas, y tenían toda la razón, ya que el tiempo era excesivamente largo, por testimonios plasmados en el _Informe Sobre el Estado de las Clases Obreras_ se puede observar que algunos trabajadores tenían su jornada de trabajo de sol a sol, sumado a condiciones laborales que eran infrahumanas.
+A modo de ejemplo respecto a horas de trabajo, que variaban dependiendo el sector en donde se trabaje: En muchos oficios fabriles el día de trabajo podía alcanzar las doce horas, mientras que en el campo la jornada se extendía, prácticamente, de sol a sol. En los Ingenios, por mencionar un ejemplo, en época de cosecha se trabajaba durante catorce horas diarias. Sumado a los bajos salarios que percibían los trabajadores.
+El reclamo era evidente, reducir las horas de trabajo a 8 horas diarias y 48 semanales, si bien hubo varios intentos de la clase obrera para reducir esto, pero no se logro hasta que se sanciono la _Ley Nacional de Trabajo_, condiciones que persisten hasta la actualidad, en la cual se observan justamente las 8 horas diarias de trabajo.
+
+<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 6. Evolución de los jornales
 
-Agos
+<blockquote>Autor de la sección: Gomez Villafañez, Denise Agostina</blockquote>
 
 ## 7. Hedonismo y vicios del obrero
 
-Carli
+El hedonismo, como filosofía que busca el placer y la felicidad como los valores supremos de la vida, tuvo diversas manifestaciones y formas de ser percibido en diferentes contextos y grupos sociales, incluyendo a los obreros en Argentina en 1.904.
+
+En ese período, Argentina estaba experimentando un rápido crecimiento industrial y una creciente urbanización, lo que llevó a condiciones laborales difíciles para muchos trabajadores. Los obreros, especialmente en las fábricas y en la industria, a menudo enfrentaban largas jornadas laborales, bajos salarios y condiciones de trabajo peligrosas. En este contexto, algunos obreros podrían haber adoptado una actitud hedonista esto podría manifestarse en el consumo de alcohol, entretenimientos como el teatro, la música, el juego, entre otras formas de escapismo. Buscar el placer, la diversión y la gratificación inmediata podría haber sido una manera de escapar temporalmente de las duras realidades del trabajo y encontrar algún tipo de satisfacción en medio de condiciones desafiantes.
+
+Mientras, el aprovechamiento de intermediarios muestra cómo algunos individuos se beneficiaron injustamente de la mano de obra vulnerable en ese período histórico. En muchos sistemas laborales de la época, los obreros estaban a menudo vinculados a intermediarios o “mandones” que gestionaban sus empleos y salarios. Estos intermediarios a menudo se aprovechaban de los trabajadores, reteniendo una parte injusta de sus salarios, imponiendo condiciones abusivas o cobrando tarifas excesivas por servicios esenciales. Además algunos intermediarios también podían estar involucrados en actividades ilegales, como el tráfico de influencias, la corrupción o el favorecimiento de ciertas empresas a cambio de beneficios personales
+
+### Hedonismo en 1.904 y en la actualidad
+
+Comparar el hedonismo en 1.904 con la actualidad nos muestra tanto similitudes como diferencias en cómo se entiende y practica esta filosofía a lo largo del tiempo.
+
+1. Contexto Histórico y Social: En 1.904, especialmente para los obreros, el hedonismo probablemente se manifestaba como una forma de escapar de las duras condiciones laborales y encontrar momentos de placer y alivio en medio de la pobreza y la explotación laboral. Actualmente, el hedonismo puede verse en una sociedad donde el consumo y la gratificación instantánea son altamente valorados. Se manifiesta en el consumo excesivo, la búsqueda constante de placer y entretenimiento, y la tendencia a evitar el dolor y el sacrificio.
+2. Tecnología y Comodidades: En 1.904, el acceso al placer se limitaba principalmente a actividades más simples y locales, como reunirse con amigos, visitar lugares de entretenimiento locales, o disfrutar de pequeñas indulgencias. Actualmente, la tecnología y la globalización han ampliado enormemente las posibilidades de placer. Desde entretenimiento en línea, hasta viajes internacionales, compras en línea, y una variedad de opciones de ocio, el hedonismo contemporáneo tiene muchas más facetas y posibilidades que en 1.904.
+3. Consecuencias e Impactos: Para los obreros de 1.904, el hedonismo podía ser una forma de resistencia y escape ante la opresión laboral, pero también podía llevar a conductas autodestructivas o vicios como el alcoholismo. Actualmente, aunque el hedonismo puede ofrecer placer temporal, también puede llevar a problemas de salud mental y física si se busca constantemente la gratificación instantánea. Además, en la actualidad, se observa una mayor conciencia sobre la importancia del bienestar a largo plazo y el equilibrio entre el placer y las responsabilidades.
+4. Individualismo y Filosofía de Vida: En 1.904, el hedonismo podría haber sido una forma de encontrar significado y alegría en la vida diaria, especialmente para aquellos con pocas otras fuentes de satisfacción. Actualmente, el hedonismo a menudo se ve como una elección personal, parte de una cultura que valora la libertad individual y el derecho a buscar la felicidad a través del placer.
+
+En resumen, aunque el hedonismo como búsqueda de placer y felicidad ha sido una constante a lo largo de la historia, sus manifestaciones y contextos han cambiado con el tiempo. Desde una forma de resistencia para los obreros de 1.904 hasta una búsqueda individual y consumista en la actualidad, el hedonismo refleja tanto las condiciones sociales y económicas como las filosofías de vida predominantes en cada época.
+
+<blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
 ## 8. Sindicatos y tratamiento de accidentes laborales
 
-Agustina
+<blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
 
 ## 9. Impuestos indirectos y su efecto sobre las distintas clases sociales
 
@@ -74,25 +104,77 @@ Si bien, y esto lo digo desde lo personal, no considero que se deba castigar al 
 
 Esta clase de falencias son atribuibles a muchos otros organismos estatales, como los educativos, lo cual hace que las clases obreras se sientan robadas por el Estado, que les cobra enormes porcentajes de lo poco que generan en impuestos, y que no se los retribuye como correspondería, lo que hace que la gente se sienta molesta con el cobro de impuestos, que le genere rencores innecesarios e injustificados contra la gente que genera más dinero mensualmente (y que contribuyen a expandir las grietas sociales), y que, siempre que pueda, busque evadir el pago de dichos gravámenes impositivos.
 
+<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
+
 ## 10. La mujer como sostén de la familia
 
-Carli
+<blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
 ## 11. Desigualdad salarial de género
 
-Carli
+<blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
 ## 12. Enfermedades comunes de la época
 
-Fabrizio
+<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 13. Trabajo infantil
 
-Agustina
+A partir de la Revolución Industrial y durante el siglo XIX, los niños de las familias pobres representan un claro eslabón en el proceso productivo, determinándose que las actividades fueran realizadas de un modo acorde con su fuerza y capacidad. Recién en el siglo XX, con la aparición del _derecho protector_, se reconoce al trabajo infantil como una problemática a tener en cuenta por los riesgos que conlleva.
+
+El informe realizado por el Dr. Bialet Massé fue la primera obra en mencionar el trabajo infantil como una problemática de interes nacional. Las primeras leyes que reglamentan el trabajo de mujeres y menores (leyes 5291 y 11317) y se hacen extensivas al ámbito rural, sin prohibir el trabajo infantil en el marco de una explotación familiar.
+
+La consideración especial hacia la infancia surge con la Declaración de los Derechos del Niño, aprobada por la Asamblea General de las Naciones Unidas en 1959, promulgándose la vulnerabilidad especial del niño/a y remarcando la necesidad de darles una protección especial para su desarrollo y una vida en condiciones de libertad y dignidad. Se toma conciencia de que el trabajo infantil rompe con el concepto de infancia como período que permite un desarrollo personal, una formación educativa y una integración positiva a la sociedad.
+
+En 1989 nuestro país adopta la Convención sobre los Derechos del Niño que convierte a los niños en sujetos de derechos, comprometiéndose a que se respetará y asegurará su aplicación sin distinción alguna. Dicha proclama, más la promulgación de la ley sobre la Prohibición del Trabajo Infantil y la Protección del Trabajo Adolescente (Ley 26390), constituyen tal vez las herramientas más importantes en pos de su erradicación.
+
+A pesar del progreso de las leyes laborales y la adhesión a la proclama de derechos del niño, el trabajo infantil aún hoy es preocupante y su erradicación requiere el control permanente de políticas públicas y el compromiso de toda la comunidad.
+
+Luego de estar publicado el informe, y usándolo como base, el ministro del interior elaboró la Ley Nacional de Trabajo y la presentó ante el Congreso Nacional el 4 de mayo de 1904. La misma estaba al nivel de las legislaciones más avanzadas del mundo, pero fue rechazada tanto por los sectores industriales como por diversos gremios. Era demasiado extrema para unos y restrictiva para otros.
+
+A lo largo de la década siguiente, algunas de las reformas incluidas en el proyecto fueron saliendo paulatinamente: el descanso dominical, la restricción de la jornada, el Departamento Nacional de Trabajo, los tribunales arbitrales, los seguros por accidentes de trabajo, medidas de seguridad e higiene en las fábricas. Estas leyes que no siempre se cumplían fueron importantes en la medida que iniciaron el camino de reconocimiento de los derechos laborales.
+
+El trabajo infantil en la Argentina es ilegal. La normativa nacional (Ley 26390) prohíbe el trabajo de los niños/as por debajo de los 16 años y protege el trabajo adolescente entre los 16 y los 18 años.
+
+Esta normativa nacional está en concordancia con convenios internacionales de la OIT: el Convenio Nº 138, el instrumento internacional por excelencia para la prevención y combate de la explotación económica de niños, niñas y adolescentes, que establece la edad mínima de admisión al empleo, y el Convenio Nº 182, que fija las peores formas del trabajo infantil descriptas anteriormente, que implican delito y consideran como _víctimas_ a la niña o el niño que las realiza; de esta manera la sanción recae sobre el explotador.
+
+En cuanto al trabajo adolescente, la normativa nacional protege el trabajo que se encuentra regulado en el Capítulo VIII de la Ley de Contrato de Trabajo y en la Ley Nacional 26390, que rige la prohibición absoluta de trabajar en ambientes o condiciones peligrosas, penosas o insalubres. Además, la jornada no debe exceder las 6 horas diarias y se prohíbe la realización de horas extras y horario nocturno.
+
+### Modalidades de trabajo infantil
+
+En la Argentina, los niños/as realizan diversas tareas, según la región geográfica y las condiciones de la población en la que se encuentran. De esta manera, el trabajo infantil se puede caracterizar como:
+
+- Trabajo doméstico: en su propia casa o para terceros, cuando implica asumir responsabilidades que corresponden a los adultos.
+- Trabajo en la industria: textil o del calzado, construcción, ladrilleras, minerías, fabricación de alfombras, etc.
+- Trabajo en las calles: cartoneros, mendicidad, limpia vidrios, abrir puertas de taxis, recolección de basura, venta ambulante, actividades en espectáculos callejeros, trabajo en mercados, etc.
+- Trabajadores rurales: siembra, cosecha, colocación de agroquímicos, acarreo de agua, ordeñe y pastoreo de animales. Estas actividades, muchas veces se realizan junto a miembros de la familia acompañándolos en el sistema de pago a destajo.
+- Explotación sexual, tráfico y venta de drogas y otras actividades ilícitas.
+- Trabajo fluvial: pesca, recolección de elementos y/o animales acuáticos.
+
+En cualquiera de estas modalidades los niños que trabajan están expuestos, de manera directa o indirecta, a mayor riesgo de sufrir enfermedades, lesiones y abuso.
+
+### Conclusiones respecto del trabajo infantil
+
+Los niños son vulnerables ante cualquier exposición que amenace la integridad psicofísica o interfiera en su desempeño educativo. El trabajo infantil vulnera los derechos esenciales de los niños y no son ellos los que están en situación irregular, sino el sistema político institucional, que debe garantizar el pleno ejercicio de sus derechos. La erradicación del trabajo infantil requiere armonizar y complementar elementos estadísticos, legislativos, monitoreo, inspección, fortalecimiento e integración de los actores sociales, cumplimentar las políticas públicas y crear observatorios que puedan controlar las estrategias implementadas.
+Se necesitan medidas estructurales a largo plazo, como el incremento e inversión en la educación pública, mayor cobertura a la protección social y políticas nacionales que aseguren un trabajo digno para los adultos.
+
+<blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
 
 ## 14. Educación
 
-Fabrizio
+La educación en Argentina en esas épocas, a diferencia de nuestros días, era muy compleja de obtener, ya que recurrían y era necesario un alto costo de inversión, y más que nada para las clases obreras se hacía muy difícil, ya que los niños también debían trabajar para sustentar a la familia en modo de apoyo. Básicamente la educación era para unos cuantos. Y que problema el trabajo de los niños, ya que el estado buscaba una obligatoriedad en la educación, pero esto parecía remotamente imposible, por ende, el ministro del interior Gonzales, buscaba una solución a este problema, la cual era dictar la Ley Nacional de Trabajo, con el objetivo de eliminar la jornada laboral a los chicos menores de 14 años.
+
+También Massé resalta que las escuelas primarias no estaban en condiciones para recibir a los niños, por ejemplo, no había bancos suficientes. Observó también que algunas madres si querían enviar a sus hijos a la escuela, para que no estén haciendo travesuras.
+
+_Hay un verdadero desequilibrio social en materia de educación en todo el país; no es sólo en el Rosario. Todo lo absorben las universidades y los colegios, y no se da a la escuela primaria lo que le pertenece. Se grita que hay sobra de profesionales, pero en verdad lo que hay es falta de escuelas primarias._
+
+Más allá de la educación para los chicos, Massé habla sobre la educación de los obreros, y sorprendentemente de los patrones, ya que sostiene que los mismos no están lo suficientemente instruidos, y que la ignorancia técnica abunda en el país, sostenía que la inteligencia y el bienestar del obrero es íntegramente proporcional al rendimiento del trabajo, y si el patrón mantiene al obrero en la miseria los mantiene en la tendencia del vicio y del delito.
+
+_Hubo un señor administrador de una empresa importante que vino de la India a ponerse al frente de la línea, y estaba en el pleno error de que el criollo argentino y los que vivíamos aquí éramos parias; le sucedieron varios chascos muy crudos; y uno conmigo, en un asunto en que intervine como abogado y en que se trataba de la construcción de una estación. Su altanería le bajó de la cabeza a los talones, cuando le increpé su falta de buena educación, su ignorancia y su calidad de sirviente de la empresa y del público que le pagaban, y como llevaba conmigo la ley de ferrocarriles, le leí el artículo 94, para que se enterara que aquí debía ser, por lo menos, atento con todos._
+
+Aquí la falta de conocimiento en el aspecto de leyes, no solo era para los patrones, sino el obrero lo sufría, como cuando no podía defenderse de los ataques de los patrones, y si se quisiera defender, necesitaría un abogado, el cual no podría costearlo básicamente.
+
+<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 15. Cierre: Descripción general del estado de la clase obrera
 
@@ -113,3 +195,5 @@ En cuanto a los niños, estos muchas veces se veían privados de una correcta al
 Hoy en día, la realidad es muy diferente en algunos aspectos, y aterradoramente similar en otros. Por ejemplo, la evolución de los trabajos, que ya no requieren tanta fuerza física para su ejecución, han permitido que cada vez más mujeres se incerten en trabajos mucho más productivos y que les permitan ganar más y mejores sueldos. A su vez, se avanzó en legislación para la protección de ambos, hombres y mujeres, en todos los campos laborales en los que estos se encuentren. Por su lado, las medidas de seguridad en los distintos trabajos han aumentado considerablemente, causando un impacto sumamente positivo a día de hoy, en comparación con los riesgos a los que hace poco más de cien años debían exponerse los obreros para trabajar. Además, se los proteje contra la explotación patronal, y el trabajo infantil es practicamente inexistente en el país, estando incluso penado por ley.
 
 La parte terrorífica de esto, es que, a más de cien años de un informe tan sumamente completo sobre qué debíamos mejorar como sociedad, aún existen cuestiones tan lamentables como que, a día de hoy, tengamos un país con un 40% de pobres, quienes, a su vez, componen la mayor parte de la clase obrera.
+
+<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
