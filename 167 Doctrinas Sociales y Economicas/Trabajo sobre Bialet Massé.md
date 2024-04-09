@@ -35,7 +35,39 @@ Con la caída del gobierno de Juárez Celman, principal impulsor de las obras de
 
 <blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
-## 4. El estado de las industrias
+## 4. El estado de las industrias y los salarios
+
+A fines del siglo XIX, los dirigentes de la generación del 80, van a insertar a la argentina en el mercado mundial mediante el traspaso de la argentina tradicional(En términos generales puede decirse que las actividades industriales que se desarrollaban en las décadas anteriores a 1880 tenían características artesanales y se orientaban, en gran medida, a satisfacer la demanda de productos necesarios para la guerra) a la argentina moderna, a mediados de este siglo la inserción de la argentina en el mercado internacional era débil por falta de dos factores claves:
+
+1. El capital (Inversiones)
+2. La Población (Mano de Obra)
+
+Con el capital buscaban dos cuestiones La seguridad y La rentabilidad, hasta ese entonces gran cantidad de inversores extranjeros se mantenían lejos de la argentina, porque durante la presidencia de Bernardino Rivadavia argentina había declarado impagable una deuda inglesa, lo que genero desconfianza en los inversores, el arreglo de esa deuda devolvió gran parte de esta confianza necesaria para la inversión, por otro lado la emisión de bonos por parte del estado que también estimulo mucho la rentabilidad necesaria e impulso la primera ola de inversores, estos bonos pagaban mas intereses que bancos europeos en donde el propio estado argentino ofrecía sus ingresos como garantía, solucionadas las cuestiones de seguridad y rentabilidad la mayor parte de los capitales comenzaron a venir de gran bretaña tanto en inversión ferroviaria como en tierras, comercio e industria, la segunda cuestión es decir la mano de obra la población fue posible a partir de las migraciones internas y la inmigración, que entre 1871 y 1914 llegaron al país casi 6 millones de personas, el ingreso de esa cantidad de personas contribuyó a abastecer el mercado laboral, ya que la mayoría de los inmigrantes tenían edades activas y entraban directamente al mercado de trabajo, El desarrollo industrial también se vinculó al ingreso de ahorros externos, un alto porcentaje de los capitales extranjeros fue invertido en el desarrollo de las comunicaciones, que permitió superar uno de los frenos más importantes que tenía la economía argentina en esa época, La red ferroviaria, es un ejemplo, que contaba con 2.400 kilómetros de vías en 1880 y pasó a tener más de 30.000 kilómetros en 1914 haciendo que a fines del siglo las exportaciones de cereales, maíz y trigo aumentaran fuertemente y se convirtieran en el principal producto del sector exportador primario Argentino, luego que argentina logra solucionar estas cuestiones principales necesarias para empezar a producir, podemos empezar a hablar de lo que sería el modelo AGROEXPORTADOR que logra la inserción de la argentina en el mercado mundial como productora de alimentos y de materia prima que a su vez también como importadora de productos manufacturados, gracias a las estancias mixtas se llega a niveles superiores de producción que combina agricultura con ganadería, a fines del siglo XIX y comienzo del siglo XX se empieza a desarrollar los primeros barcos frigoríficos que hicieron posible el transporte de carne refrigerada.
+
+En 1876 el ingeniero Charles Tellier inventó el sistema de conservación de las carnes por frío a cero grados, siendo éste otro de los hechos que habrían de tener un impacto decisivo en el desarrollo industrial de nuestro país. A fines de ese año llegó al país el vapor _Le Frigorifique_ que traía carnes congeladas con el sistema recién descubierto. La Sociedad Rural Argentina pidió la colaboración de sus asociados y el barco partió hacia Europa con 95 animales faenados. Este primer ensayo falló, ya que las carnes se descompusieron en el trayecto. Un nuevo intento se produjo en 1877 cuando el vapor _Paraguay_ trajo carnes congeladas con el procedimiento _Carré Julien_, que llevó las temperaturas a 20° y 30° bajo cero. El barco arribó a Europa llevando 5.500 reses de carne argentinas. Este avance tecnológico iba a tener un efecto directo en la conversión espontánea de viejos saladeros en modernos frigoríficos y en la inversión de nuevos capitales en ese sector. Los frigoríficos, aunque instalados fuera de la Capital Federal, comenzaban a realizar sus exportaciones, que ascendieron a poco más de 18.000 toneladas en 1888.
+
+**El crecimiento industrial argentino venía siendo un éxito, pero no todo era bueno como aparentaba.**
+
+A pesar de las oportunidades laborales que permitían la fácil incorporación para los ciudadanos al mundo del trabajo, no faltaron los problemas, las crisis y las fluctuaciones en los salarios que generaban malestar entre los trabajadores.
+El crecimiento de la actividad no supuso una mejora en las condiciones de trabajo de por sí paupérrimas. Obreros y obreras, en creciente número, comenzaron a organizarse desde fechas muy tempranas para denunciar y revertir dichas condiciones. En este aspecto, resulta innegable el rol decisivo que tuvieron los inmigrantes europeos (que traían consigo la experiencia de una Europa atravesada por luchas sociales y por condiciones laborales, en muchos aspectos, igual de miserables) en el proceso de conformación de las primeras organizaciones obreras en el país que se sumaron a las formas previas de protesta.
+
+El límite en la extensión de la jornada laboral fue siempre un objetivo primordial en las demandas obreras. En muchos oficios fabriles el día de trabajo podía alcanzar las doce horas, mientras que en el campo la jornada se extendía, prácticamente, de sol a sol.
+
+La cuestión salarial ocupó también un lugar central en las protestas que tuvieron lugar durante las últimas décadas del siglo XIX. No sólo se reclamaban aumentos de sueldo, sino también la regularización de los pagos y la eliminación del trabajo a destajo. Se constata que el salario exigido en la mayoría de las huelgas ascendía a $4,00 diarios, contra los $2,50, $3,00 que promediaban el salario diario percibido en las ciudades.
+
+- En 1886, un obrero calificado ganaba un salario promedio de $ 2,50 en 1895 $ 3,50.
+- Un no especializado difícilmente llegaba a los $2,00. Ahora bien, si consideramos que al principio del período citado, el valor peso papel a oro era $ 0,71, Y $ 0,34 al final, resulta que el salario real de un obrero especializado había decrecido de $ 1,80 a $1,19.
+
+Aún peor era la situación para las mujeres trabajadoras. Según un estudio realizado en 1910 por el Departamento de Trabajo, en 34 fábricas de hilado y tejido el salario de los varones era entre 33% y 100% más altos que la remuneración recibida por las mujeres. Fuera de las fábricas el trabajo femenino se concentraba fundamentalmente en el comercio, los servicios y sobre todo el servicio doméstico. Las trabajadoras a domicilio constituían el sector más explotado de la fuerza de trabajo en la ciudad, enfrentando jornadas laborales aún más extenuantes, con remuneraciones de por sí bajas, a las que debía sustraerse incluso el costo de las herramientas que las propias trabajadoras debían pagar.
+
+Igualmente, penoso es lo que ocurría respecto del trabajo infantil. Si bien, por las condiciones de clandestinidad en que muchos niños y niñas eran contratados, la proliferación del trabajo infantil en dicha época es innegable, concentrándose en las industrias del cigarrillo, del vidrio, las bolsas y los tejidos. En el año 1900, la huelga en la industria del sombrero otorgó visibilidad al asunto. En ella se reclamaba que los niños fueran reemplazados por varones adultos.
+
+La huelga no fue la única herramienta utilizada por la clase obrera organizada para impulsar sus reclamos. En 1890, el recientemente creado Comité Internacional Obrero elevó al Congreso de la Nación una solicitud que, acompañada por más de 7 mil firmas, reclamaba: la jornada de ocho horas para todos los adultos; la prohibición del trabajo a los menores de 14 años y reducción de la jornada a seis horas para los menores de ambos sexos de 14 a 18 años; la abolición del trabajo nocturno, con excepción de las ramas cuya índole no permita interrupción; la abolición del trabajo nocturno para la mujer y menores de 18 años; mejoramiento de las condiciones de higiene en las fábricas y talleres; la prevención de accidentes y la implementación de seguros laborales; el descanso dominical no interrumpido de 36 horas semanales para todos los trabajadores (en este último aspecto los militantes obreros encontraron un insospechado aliado en la Iglesia; por tal motivo, socialistas y anarquistas preferían referirse a éste como “descanso hebdomadario”)
+
+Por último, pero no menos importante, se exigía en aquella solicitud el reconocimiento de las organizaciones gremiales. Algunos de estos reclamos fueron imponiéndose muy lentamente y debieron esperar varios años para ver la luz. Recién en 1905, por ejemplo, se sancionó el mencionado descanso dominical o “hebdomadario”, mientras que la ley protectora del trabajo de mujeres y menores no fue promulgada hasta el año 1907. Si bien estas leyes fueron fundamentales, en algunas ramas fue difícil su cumplimiento efectivo, situación que generó conflictos posteriores. Hasta entonces, la conflictividad social y obrera siguió su curso de recrudecimiento sostenido. En 1902 una gran huelga logró paralizar las operaciones de carga y descarga en el puerto.
+
+**La respuesta del Estado** ante aquella creciente efervescencia fue, cuando menos, ambigua. A la intensificación de la protesta obrera opuso, por un lado, represión física, institucional y política —estado de sitio, ley de Residencia de 1902 (que autorizaba a deportar a los extranjeros que perturbaran el orden público)—. Pero, por otro lado, mostró cierto interés por comprender la coyuntura social en la que estas protestas se insertaban. El informe encargado a Juan Bialet Massé, para relevar el estado de los trabajadores en Argentina de entonces, pareciera dar cuenta de dicho interés, con miras a desarrollar una legislación apropiada al país y a la época.
+La malograda Ley Nacional del trabajo, en 1904.
 
 <blockquote>Autor de la sección: Gomez Villafañez, Denise Agostina</blockquote>
 
@@ -47,11 +79,7 @@ El reclamo era evidente, reducir las horas de trabajo a 8 horas diarias y 48 sem
 
 <blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
-## 6. Evolución de los jornales
-
-<blockquote>Autor de la sección: Gomez Villafañez, Denise Agostina</blockquote>
-
-## 7. Hedonismo y vicios del obrero
+## 6. Hedonismo y vicios del obrero
 
 El hedonismo, como filosofía que busca el placer y la felicidad como los valores supremos de la vida, tuvo diversas manifestaciones y formas de ser percibido en diferentes contextos y grupos sociales, incluyendo a los obreros en Argentina en 1.904.
 
@@ -72,11 +100,54 @@ En resumen, aunque el hedonismo como búsqueda de placer y felicidad ha sido una
 
 <blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
-## 8. Sindicatos y tratamiento de accidentes laborales
+## 7. Sindicatos y tratamiento de accidentes laborales
+
+### Juan Bialet Massé y el concepto de la culpa en el accidente de trabajo
+
+Su _tratado de responsabilidad civil en el derecho argentino_, se publica en 1904. En sus páginas examina el siniestro laboral conforme a las exigencias del desarrollo del industrialismo. Esta tarea reivindicatoria ocurre durante la época en la que el conglomerado obrero no era aceptado en toda su extensión, al expresar modalidad de lucha y decisión de alcance sobre lo institucional en vigencia. Siempre fiel a Vélez Sarsfield y a su código, desarrolla su doctrina en base a un concepto de no variar lo existente. Nos argumenta así:
+
+1º Que la reparación de perjuicios a terceros está garantizada por la Constitución nacional en su artículo 19.
+2º Que no es exacto _que no hay responsabilidad sin culpa_, ya que se responde del daño que causan las cosas con que se lucra o se goza y por las que la ley pone el cuidado de cada cual y concluye: _en materia de accidentes de trabajo no se necesita ni una letra; ni una coma puede añadirse o quitarse al código civil sin ofenderse su justicia_.
+
+Se explica así:
+
+1. _El dueño de la cosa, o que goza de lo que otro hace para él y por su cuenta, soportará todos los accidentes que soporta el que lo sustituye en el trabajo; y por consiguiente, debe indemnizar al sustituto de todo lo que él mismo habrá sufrido si hubiera hecho el trabajo por sí mismo_, con la excepción de lo que paga, que es la aplicación directa de las energías de la cosa; nunca las fuentes de esas energías porque ellas no entran en el comercio. Hace Bialet la actual diferenciación entre el esfuerzo o la energía en el trabajo y la persona que presta esa actividad. Avizora así también el concepto de que el trabajo no debe ser considerado como mercancía.
+2. _Así como el dueño de la cosa no podría imputar al trabajador, sino es desgaste natural de su persona y ropas que en él usara - se refiere al obrero - la culpa leve que es inherente al trabajo mismo y que 10 fuera exclusivamente suya, tampoco puede pretender que el obrero le de otra cosa; y por consiguiente: debe indemnizar al que trabaja en vez de él, de todo daño que le resulte en la persona y en los bienes; sea por culpa, dolo o negligencia del dueño de cosa: sea por caso fortuito o fuerza mayor; sea por el hecho de un dependiente o cosa suya; sea que haya o no podido evitarlo; sea que el acto que dañan sea lícito, o ilícito, tal que pueda establecerse la relación de causa a efecto de ocasión entre el trabajo y el daño; sea directa o indirecta; sea mediata se ha podido preverse con la debida atención y pleno conocimiento de las cosas; sea puramente casuales si han debido resultar según las culpas que tuvo al efectuar el hecho o se trate de actos reprobados por las leyes, si fueren perjudiciales por causa del hecho mismo no sea imputable al que trabaja por su dolo o por su culpa y exclusiva la culpa o negligencia_.
+
+Bialet se aparta de los principios doctrinarios que informan la teoría del riesgo profesional de las leyes alemanas y francesas de 1897 y 1898, respectivamente. También se aleja de las conclusiones del primer proyecto argentino de los diputados Avellaneda y Roldán y de la misma iniciativa de Joaquín V. González sobre _Ley Nacional de Trabajo_ de 1906, se opone Bialet a la teoría del riesgo profesional conforme a este razonar:
+
+1. La teoría hace nacer la confianza en el peligro, creando el hábito profesional por la excesiva confianza del desempeño, creando riego y accidentes.
+2. Este doctrinarismo se refiere tan sólo a los siniestros de determinadas actividades o para ciertos trabajadores y no para todos. En tal sentido se adelanta a la orientación de hoy que estima que el riesgo profesional es insuficiente y se encuentra superado por la teoría de la seguridad social que comprende a todo individuo. Sea o no trabajador, que sufra un percance y se produzca éste incapacidad, llegándose a lo actual de riesgo social (es decir) de que el riesgo no lo crea el taller ni el empleador, sino el propio conjunto social, la misma colectividad al poner a su servicio los adelantos modernos (electricidad, transportes colectivos, etc.) y es por ello que esa colectividad debe hacerse cargo de la indemnización por instrumento del seguro social.
+
+La culpa patronal por ser dueño del instrumento de trabajo al rechazar Bialet la doctrina del riesgo profesional, acude al concepto tradicional de la responsabilidad subjetiva (arts. 1109 y 1113 del Código Civil) de medidas generales, aplicable tanto al accidente de trabajo como a cualquier evento que cause daños, pero atemperado sus rigores por aplicación de los arts. 1133 y 1134 de que el causante de un daño _responderá de la indemnización, sino prueba que de su parte no hubo culpa_. En tal sentido explica de que Vélez Sarsfield _no legisló especialmente los accidentes del trabajo con el nombre de tales, pero sancionó las leyes de la responsabilidad civil de un modo tan completo, preciso y general, que todos los casos, de todos los objetos del derecho, se hallan resueltos de una manera cabal_.
+
+Conforme a su razonamiento, al disponer el art. 1133 del Código Civil sobre el daño de las cosas inanimadas, responde su dueño si es que de su parte no hubo culpa o sea el empresario por el solo hecho de ser propietario de la cosa que causa el daño. Se crea por intermedio de esta interpelación la presunción _iuris-tantun_ de la culpabilidad del principal dueño de la cosa, quien deberá descargarse de responsabilidad demostrando que el daño se produjo sin negligencia suya, invirtiendo en cierta manera la prueba, comentando esta posición de la responsabilidad del dueño de los útiles de trabajo, o sea, de las cosas inanimadas que han producido el daño, soluciona el problema de la culpa en el accidente de trabajo sólo en forma parcial pues se deja de lado a muchas situaciones de este siniestro causado por cosas que no pertenecen al empleador y la protección es muy reducida.
+
+No satisfecho Bialet con esta explicación la amplía argumentando que _la máquina viva_ (como llama al trabajador) al enajenar su esfuerzo al empleador, incorpora su energía a la cosa que produce con su, y debe ser a cargo del patrón el desgaste que sufre ese elemento mecánico que lo sirve. Ejemplifica con un simbolismo: _El manejo del martillo deja callos en las manos. Son a cargo del obrero como consecuencia del ejercicio de su profesión. son como el hollín que se pega en la cara del herrero al pie de la fragua. Significa algo semejante a la fatiga que invade al trabajador en su desempeño y así como el patrono arrienda a esa “máquina viva”, o como lo hiciera con una “máquina mecánica” o técnica, son a su cargo todo lo que no sea de uso regular, ordinario y normal de tales instrumentos, es decir, es consecuencia del accidente de trabajo._
+
+### Sindicatos y contexto social
+
+Desde el Estado se entendía que uno de los problemas más urgentes, ante los estallidos sociales de diferente intensidad que se habían producido desde finales del siglo XIX, eran las injusticias laborales y sus consecuencias para la vida cotidiana. Diferentes tipos de huelgas y atentados anarquistas sacudieron las estructuras socio políticas del país, y ante ellos, dentro de la propia elite política, un sector de liberales reformistas sostenía que el liberalismo puro no era capaz de hacerle frente a los nuevos y acuciantes problemas sociales.
+
+El primer paso en la organización del trabajo en la Argentina fue la creación de sociedades de socorros mutuos o mutualidades. En 1857 se crea en Buenos Aires la primera organización obrera del país, la Sociedad Tipográfica Bonaerense, una mutual que más adelante se convertiría en el primer sindicato argentino y en el primer grupo de trabajadores en realizar una huelga. En 1873 se produjo la primera crisis económica mundial del capitalismo. En ese momento el presidente Nicolás Avellaneda hizo un famoso discurso en el que anunció que la deuda sería pagada con el hambre de la población. Con su discurso, Avellaneda sacó a la luz el conflicto social que venía con el capitalismo. Fue la señal para que los trabajadores comenzaran a pensar que tenían que unirse en _sociedades de resistencia_. En esa misma época los empleadores comenzaron a crear sus propias organizaciones gremiales. En 1866 los estancieros crearon la Sociedad Rural Argentina (SRA), en tanto que en 1875 los industriales los que crearon el Club Industrial, el cual en 1887 pasó a llamarse Unión Industrial Argentina (UIA). Finalmente, en agosto de 1878 se creó el primer sindicato argentino: la Unión Tipográfica, que, al mes siguiente, el 2 de septiembre, declaró también la primera huelga, en reclamo de un aumento de salarios y la reducción de la jornada de trabajo a 12 horas en verano y 10 en invierno. La huelga sorprendió a los empleadores y logró que se aceptaran las exigencias obreras. Pero al poco tiempo el sindicato desapareció y se restablecieron las viejas condiciones de trabajo.
+
+### UGT, FORA Y CORA (1900-1909) época del informe de las clases obreras
+
+En 1901 varios sindicatos socialistas y anarquistas crearon la Federación Obrera Argentina (FOA). A partir de ese momento el movimiento obrero argentino tuvo siempre al menos una central sindical de máxima conducción. Sin embargo, la unidad entre socialistas y anarquistas no perduró. En 1903 los socialistas se separaron para crear la Unión General de Trabajadores (UGT), mientras que en 1904 los anarquistas la cambiaron el nombre a la FOA para constituir la Federación Obrera Regional Argentina, la "FORA", que definiría claramente su tendencia anarco-sindicalista al año siguiente, en su V Congreso.
+
+A pesar de la división entre socialistas y anarquistas, la unidad sindical, por encima de las corrientes ideológicas y políticas, será una preocupación permanente del movimiento obrero argentino. Las actas de todos los congresos sindicales de la época, registran en el primer lugar de los temarios el problema de la unidad y las gestiones realizadas con los sindicatos pertenecientes a las otras corrientes, para intentar constituir una central que los contuviera a todos. De las 14 huelgas generales que declararon ambas centrales entre 1900 y 1914, solo tuvieron éxito las cuatro que fueron declaradas conjuntamente, en 1904, 1907, 1909 y 1910.
+
+En 1909 la UGT socialista se disolvió para dar paso a la Confederación Regional Argentina (CORA). Con la CORA apareció en Argentina una nueva corriente sindical: el sindicalismo revolucionario, o simplemente "sindicalismo". Internacionalmente, el sindicalismo revolucionario había aparecido en esa época en Francia, siguiendo las ideas de Sorel. Lo que los distinguía era que reclamaban la desvinculación total de los sindicatos, tanto de las corrientes ideológicas como de los partidos políticos. De este modo, en las dos primeras décadas del siglo XX serán tres las corrientes principales del sindicalismo argentino:
+
+- Anarquistas.
+- Socialistas.
+- Sindicalistas revolucionarios.
+
+En esta década varios sindicatos iniciaron procesos de unificación a nivel nacional. En 1902 doce sindicatos de estibadores constituyeron la Federación Nacional de Obreros Portuarios, y siete sindicatos constituyeron la Federación de Obreros Albañiles. Lo mismo sucedió con la Federación de Obreros Agrícolas. A ellos se sumaban los sindicatos ferroviarios, cuya propia naturaleza los impulsaba a la organización nacional y que en 1896 habían organizado la primera huelga general de alcance nacional.
 
 <blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
 
-## 9. Impuestos indirectos y su efecto sobre las distintas clases sociales
+## 8. Impuestos indirectos y su efecto sobre las distintas clases sociales
 
 En este apartado, lo primero que debemos hacer es identificar, ¿Qué son los impuestos indirectos? ¿Y los directos?
 
@@ -108,7 +179,7 @@ Por otro lado, el tratamiento de este tipo de impuestos es complicado, dado que 
 
 <blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
 
-## 10. La mujer como sostén de la familia
+## 9. La mujer como sostén de la familia
 
 En 1904, en Argentina, el papel de la mujer como sostén de la familia estaba marcado por una serie de circunstancias sociales, económicas y culturales específicas de esa época. Aunque muchas mujeres desempeñaban un papel crucial en el sustento de sus familias a través del trabajo doméstico no remunerado y, en algunos casos, trabajo remunerado fuera del hogar, su participación en la esfera pública y económica estaba limitada por normas de género y falta de acceso a oportunidades educativas y laborales.
 
@@ -129,7 +200,7 @@ Hoy en día, algunas mujeres siguen siendo el principal sostén económico de su
 
 <blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
-## 11. Desigualdad salarial de género
+## 10. Desigualdad salarial de género
 
 La época en la que nos centramos para hablar y comparar con la actualidad no existía el concepto _brecha de género_, ya que es un término moderno, sin embargo, es importante destacar que la desigualdad de género ha sido un problema persistente en muchas sociedades a lo largo de la historia. En la actualidad, la brecha salarial de género se refiere a la diferencia promedio en los ingresos entre hombres y mujeres por el mismo trabajo o trabajo de igual valor.
 
@@ -155,7 +226,7 @@ En la actualidad, el derecho a la igualdad de oportunidades entre hombres y muje
 
 <blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
 
-## 12. Enfermedades comunes de la época
+## 11. Enfermedades comunes de la época
 
 Generalmente las enfermedades más comunes de la época, la sufría la clase obrera argentina, ya que estas eran producto de las malas condiciones en la cual estos eran sometidos, por ejemplo, las altas temperaturas, las cuales, en algunos casos, superaban los 50 grados.
 Y no tan solo el clima era el responsable, sino los propietarios de los lugares que los obreros realizaban sus actividades, ya que los mismos no reunían las condiciones necesarias para desarrollar trabajos. Como, por ejemplo: la ubicación de los campamentos, las maquinas envueltas en ramas y maleza, mampostería rota en partes, las vías desechas, charcos formados a causa del mala instalaciones de drenajes, y como más importante el tema del agua, la cual no tenía los filtros suficientes para que la gente pueda beber agua limpia y esterilizada, la que esta era una de las principales causas de enfermedad de la gente.
@@ -182,7 +253,7 @@ Entre las enfermedades más comunes en la época encontramos:
 
 <blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
-## 13. Trabajo infantil
+## 12. Trabajo infantil
 
 A partir de la Revolución Industrial y durante el siglo XIX, los niños de las familias pobres representan un claro eslabón en el proceso productivo, determinándose que las actividades fueran realizadas de un modo acorde con su fuerza y capacidad. Recién en el siglo XX, con la aparición del _derecho protector_, se reconoce al trabajo infantil como una problemática a tener en cuenta por los riesgos que conlleva.
 
@@ -224,7 +295,7 @@ Se necesitan medidas estructurales a largo plazo, como el incremento e inversió
 
 <blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
 
-## 14. Educación
+## 13. Educación
 
 La educación en Argentina en esas épocas, a diferencia de nuestros días, era muy compleja de obtener, ya que recurrían y era necesario un alto costo de inversión, y más que nada para las clases obreras se hacía muy difícil, ya que los niños también debían trabajar para sustentar a la familia en modo de apoyo. Básicamente la educación era para unos cuantos. Y que problema el trabajo de los niños, ya que el estado buscaba una obligatoriedad en la educación, pero esto parecía remotamente imposible, por ende, el ministro del interior Gonzales, buscaba una solución a este problema, la cual era dictar la Ley Nacional de Trabajo, con el objetivo de eliminar la jornada laboral a los chicos menores de 14 años.
 
@@ -240,11 +311,11 @@ Aquí la falta de conocimiento en el aspecto de leyes, no solo era para los patr
 
 <blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
-## 15. Cierre: Descripción general del estado de la clase obrera
+## 14. Cierre: Descripción general del estado de la clase obrera
 
 Como podemos ver en base a lo expuesto, las clases obreras no formaban parte de esa Argentina rica que se vendía al mundo, sino que, por el contrario, se encontraba bastante alejada de esa realidad.
 
-Esta clase obrera, que se componía de un pequeño porcentaje de inmigrantes, y de una inmensa mayoría de criollos, se encontraba en constante explotación por parte de las patronales, quizá no por maldad, como Bialet Massé resalta muchas veces, sino por una ignorancia descomunal de artes y ciencias que hoy consideramos lo cotidiano, tales como la economía de los recursos, la comunicación, la gestión de los (a mi parecer mal llamados) recursos humanos.
+Esta clase obrera, que se componía de un pequeño porcentaje de inmigrantes, y de una inmensa mayoría de criollos, se encontraba en constante explotación por parte de las patronales, quizá no por maldad, como Bialet Massé resalta muchas veces, sino por una ignorancia descomunal de artes y ciencias que hoy consideramos lo cotidiano, tales como la economía de los recursos, la comunicación, la gestión de los recursos humanos.
 
 En las zonas más ricas del país, tales como las provincias de Córdoba o Santa Fe, los abusos, las explotaciones y los malos tratos se encontraban en mucha menor medida que en el resto del país. Sin embargo, en las zonas más pobres, como el Chaco, la situación era digna de ser declarada una emergencia.
 
@@ -256,8 +327,14 @@ También se encontraban víctimas de este sistema las mujeres y los niños. Las 
 
 En cuanto a los niños, estos muchas veces se veían privados de una correcta alimentación, así como de una educación que les permitiera aspirar a un futuro mejor. En el peor de los casos, incluso debían trabajar para ganarse el sustento del día a día.
 
-Hoy en día, la realidad es muy diferente en algunos aspectos, y aterradoramente similar en otros. Por ejemplo, la evolución de los trabajos, que ya no requieren tanta fuerza física para su ejecución, han permitido que cada vez más mujeres se incerten en trabajos mucho más productivos y que les permitan ganar más y mejores sueldos. A su vez, se avanzó en legislación para la protección de ambos, hombres y mujeres, en todos los campos laborales en los que estos se encuentren. Por su lado, las medidas de seguridad en los distintos trabajos han aumentado considerablemente, causando un impacto sumamente positivo a día de hoy, en comparación con los riesgos a los que hace poco más de cien años debían exponerse los obreros para trabajar. Además, se los proteje contra la explotación patronal, y el trabajo infantil es practicamente inexistente en el país, estando incluso penado por ley.
+Hoy en día, la realidad es muy diferente en algunos aspectos, y aterradoramente similar en otros. Por ejemplo, la evolución de los trabajos, que ya no requieren tanta fuerza física para su ejecución, han permitido que cada vez más mujeres se incerten en trabajos mucho más productivos y que les permitan ganar más y mejores sueldos. A su vez, se avanzó en legislación para la protección de hombres, mujeres y niños, en todos los campos laborales en los que estos se encuentren. Por su lado, las medidas de seguridad en los distintos trabajos han aumentado considerablemente, causando un impacto sumamente positivo a día de hoy, en comparación con los riesgos a los que hace poco más de cien años debían exponerse los obreros para trabajar. Además, se los proteje contra la explotación patronal, y el trabajo infantil ha disminuido enormemente en el país, a comparación de 1.904, estando incluso penado por ley.
 
-La parte terrorífica de esto, es que, a más de cien años de un informe tan sumamente completo sobre qué debíamos mejorar como sociedad, aún existen cuestiones tan lamentables como que, a día de hoy, tengamos un país con un 40% de pobres, quienes, a su vez, componen la mayor parte de la clase obrera.
+La parte terrorífica de esto, es que, a más de cien años de un informe tan sumamente completo sobre qué debíamos mejorar como sociedad, aún existen cuestiones tan lamentables como que, a día de hoy, tengamos un país con un 40% de pobres, quienes, a su vez, componen la mayor parte de la clase obrera. Esto nos lleva a cuestionarnos asuntos cómo:
+
+- ¿Qué clase de políticas están tomando nuestros dirigentes para subsanar estos problemas tan longevos, y cuales fueron, son y serán sus efectos?
+- Como parte de una sociedad, ¿Qué medidas estamos tomando nosotros para contribuir a que estas situaciones mejoren?
+- ¿Hemos alcanzado, por fin, esa Argentina utópica que tanto ofrecíamos al mundo hace cien años, o nos alejamos aún más de ella?
+
+Suponemos que las respuestas a estas cuestiones son tan diversas como personas habitan este país, pero que, como sea, dependen enormemente de un deseo personal de cada uno de nosotros por formarnos, aprender, mejorar y colaborar, para que, desde hoy y pensando en mañana, nuestra Argentina tenga el lugar de honor que se merece en el mundo, comenzando por tener una sociedad en óptimas condiciones de vida para que ello suceda.
 
 <blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
