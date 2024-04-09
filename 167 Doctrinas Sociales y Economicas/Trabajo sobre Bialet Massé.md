@@ -157,6 +157,29 @@ En la actualidad, el derecho a la igualdad de oportunidades entre hombres y muje
 
 ## 12. Enfermedades comunes de la época
 
+Generalmente las enfermedades más comunes de la época, la sufría la clase obrera argentina, ya que estas eran producto de las malas condiciones en la cual estos eran sometidos, por ejemplo, las altas temperaturas, las cuales, en algunos casos, superaban los 50 grados.
+Y no tan solo el clima era el responsable, sino los propietarios de los lugares que los obreros realizaban sus actividades, ya que los mismos no reunían las condiciones necesarias para desarrollar trabajos. Como, por ejemplo: la ubicación de los campamentos, las maquinas envueltas en ramas y maleza, mampostería rota en partes, las vías desechas, charcos formados a causa del mala instalaciones de drenajes, y como más importante el tema del agua, la cual no tenía los filtros suficientes para que la gente pueda beber agua limpia y esterilizada, la que esta era una de las principales causas de enfermedad de la gente.
+Un médico Tucumano testigo de la época le comento a Massé:
+_Usted atribuye el setenta y cinco por ciento de los casos a la incuria de la administración; yo le atribuyo la totalidad. El paludismo está en la categoría de las enfermedades evitables y prevenibles, y basta un gasto insignificante para lograrlo, gasto que no llegaría a tres centavos por jornal_
+Claramente haciendo referencia a que la culpa y responsabilidad es íntegramente atribuible a los patrones, los cuales son los más criticados en el informe sobre las clases obreras. Pero en este caso no por una ineficiencia y falta de conocimiento técnico, sino por la mecedura de no gastar presupuesto en poner en condiciones dignas los lugares de trabajo.
+En cuanto a la asistencia médica, los establecimientos contaban con médicos, pero atendían con privilegio a los cristianos, a los indios se les daba asistencia a medias.
+También otro problema es que los obreros no tomaban las medidas de seguridad necesaria para protegerse en los trabajos, pero claro esto consistía en que una autoridad superior se tendría que encargar de informar sobre este aspecto y obligar al obrero, pero claro, como siempre el patrón y superior sale ileso y las consecuencias las sufre el obrero.
+Otro problema recurrente de enfermedades venía desde las casas, la cual por la falta miseria que vivían las madres, era muy común la falta de nutrición durante los embarazos, ya por el exceso de trabajo y el hambre, era imposible que en su seno pueda criar una creatura, y en algunos casos conducía a la muerte.
+En el caso de los ingenios tucumanos las enfermedades más comunes son el paludismo, en agosto y septiembre la bronconeumonía, y en el otoño hay alguna fiebre tifoidea, que en este establecimiento está disminuida por la higiene que en él se observa.
+En estos ingenios si se tienen médicos y botiquines por si se presenta alguna enfermedad entre los obreros, en caso de accidente de trabajo, se brinda la asistencia necesaria y se da el jornal, y si el obrero queda inútil se le brinda una pensión.
+Pero insisto con que el gran problema de las enfermedades de esta época eran las deficientes medidas de seguridad que se tomaban, tanto el patrón como el obrero, y solo en algunos lugares si el obrero se enfermaba o tenia accidentes de trabajo era respaldado, como por ejemplo en si tenía una enfermedad grabe o de larga duración, no se descontaba la falta. Si bien se creía que el criollo tenía una resistencia superior a la del europeo, no era motivo suficiente para que este sea sometido a condiciones infrahumanas de trabajo. Al igual que los indios que eran explotados y estafados por los estancieros. La fatiga y el hambre, también son factores importantes para contraer enfermedades, ya que con los bajos salarios que obtenían, apenas podían vivir con lo justo, y sumado a la cantidad excesiva de horas de trabajo, solo podían hacer una o dos comidas al día.
+
+Entre las enfermedades más comunes en la época encontramos:
+
+- Fatiga
+- Desnutrición
+- Intoxicación
+- Enfermedades por larvas
+- Paludismo
+- Fiebre tifoidea
+- Fiebre amarilla
+- Cólera
+
 <blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 13. Trabajo infantil
