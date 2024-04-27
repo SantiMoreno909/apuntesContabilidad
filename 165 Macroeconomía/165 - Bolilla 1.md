@@ -32,7 +32,7 @@ Al hablar de **Factores**, nos referimos a aquellos que son de aplicación en la
 
 Esto se ve reflejado en la **Función de Producción**, la cual indica la cantidad de factores que deben utilizarse para que, combinados, se obtenga como resultado cierto nivel de producción, lo que se puede expresar de la siguiente manera:
 
-<blockquote>PT = F (T, K, RN)</blockquote>
+<blockquote>PT = F (L, K, RN)</blockquote>
 
 ## Análisis de los Factores
 
@@ -63,7 +63,7 @@ Esta clasificación de la población se analiza con diferentes tasas o índices,
 
 Son indicadores o tasas que indican los factores por los cuales la PT puede cambiar.
 
-- Tasa de Natalidad: Indica el número de nacidos vivos pro cada 1000 habitantes de una población en un determinado período.
+- Tasa de Natalidad: Indica el número de nacidos vivos por cada 1000 habitantes de una población en un determinado período.
 
 <blockquote>TdeN = (N° de Nacidos Vivos/PT)*1000</blockquote>
 
@@ -303,7 +303,7 @@ La cuenta del **Sector Gobierno** tiene los siguientes elementos:
 | **Usos**                          | **Fuentes**                    |
 | --------------------------------- | ------------------------------ |
 | Gasto Público                     | Aportes de la Seg. Social      |
-| Transferencias                    | Imp. Pagadsos por las Familias |
+| Transferencias                    | Imp. Pagados por las Familias |
 | Ahorro del Gobierno               | Impuestos Indirectos Netos     |
 | ------------------------          | -----------                    |
 | **Utilización de los Ing. del G** | **Total del Ingr. del G**      |

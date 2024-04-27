@@ -12,8 +12,6 @@ La mejor forma de contextualizar el sentido de toda la obra analizada, así como
 
 Con esta idea central en mente, la de justamente exponer las llagas a la vista, para poder identificarlas y curarlas, es que procedemos entonces con el análisis de la obra.
 
-<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
-
 ## 2. Contexto histórico
 
 En esta época, Argentina se encontraba en miras del mundo, no solo por su inminente centenario, sino por sus promesas de una especie de "sueño americano" a lo criollo, prometiéndose grandes fortunas a quienes tuviesen el valor de venir a trabajar nuestras tierras. Nuestro fuerte modelo agroexportador nos volvía, en su momento, una potencia económica mundial, ganandonos el apodo de "El granero del mundo", e incluso suscitando cuestiones como la famosa frase parisina "Il est riche comme un Argentin".
@@ -24,16 +22,12 @@ Un indicio de esto lo tenemos en los sucesos previos al centerario, en 1.910, cu
 
 Todos esos sucesos pudieron preveerse con una detallada lectura del informe del Dr. Massé, pero, ¿Quién fue este hombre? Y, por sobre todo, ¿Por qué fue tan importante?
 
-<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
-
 ## 3. Sobre Juan Bialet Massé
 
 Juan Bialet Massé, nacido en España, fue considerado una de las mejores y más brillantes mentes de su época, pero para que esta brillante mente empiece a funcionar, llevo su tiempo, ya que el mismo reconoce que era un bobo, ya que con 14 años termino el primario, pero luego de su despertar termino sus estudios secundarios en 2 años, y a sus 20 ya era médico, lo que habla de la enorme fuerza de voluntad, determinación y capacidad de este hombre. En 1968 ante los tiempos de convulsiones en España, Bialet Massé participa en la revolución de dicho año, que provoca la caída de la reina Isabell 2, pero el nuevo gobierno lo desencanta, dado que no encaja con sus ideales republicanos y democráticos, por lo que decide llegar a la Argentina.
 Por su prestigio como investigador y médico, lo convocan desde la Universidad de Córdoba para dictar la catedra de medicina legal, a la cual rechazo, ya que, al ser extranjero, desconocía las leyes de nuestro pais, por lo cual decide estudiar derecho, y en el tiempo récord de tan solo 20 meses, se recibe de abogado. Tras su prestigio académico, la política lo llama, primero como concejal por la ciudad de Córdoba, luego como presidente del consejo deliberante.
 Durante su mandato se concretaron diversas obras, como las de gas y de agua corriente. En esos años conoce a quien será su compañero y su dupla de proyectos, el Ing. Carlos Cassaffousth, esperándoles a ambos grandes proyectos, y tambien la cárcel. Con su compañero, encararía su mayor proyecto, y considerado por grandes genios de la ingeniería, como la obra más importante del mundo (de esos tiempos). **La construcción del dique san roque**, una obra monumental que fue construida con materiales de la empresa de Bialet Massé (llamada _La Nueva Argentina_) la cual proveía de cementos y cales hidráulicas a un costo mucho menor que los materiales importados.
 Con la caída del gobierno de Juárez Celman, principal impulsor de las obras de Massé, el nuevo gobernador de la provincia de Córdoba (Pizarro) quiere hacer una profunda investigación de todo lo que tenga el sello de Juárez Celman, y el dique San Roque esta primero en la lista. El gobernador contrata a un ingeniero extranjero para hacer una auditoria al dique, y asegura que el mismo está mal hecho, ante esto Massé y el Ing. Cassaffousth quedan detenidos. Massé está solo y, con el apoyo de nadie, decide preparar su propia defensa, recaudando fotos, datos, y todo material de prueba a su favor. Luego de un año Massé y compañía quedan en libertad, y tras el bochorno el gobernador Pizarro decide renunciar a la gobernación, Tras la muerte de su socio y amigo Cassaffousth, provoca un quiebre en la vida de Bialet Massé y decide volver al área de la docencia y la investigación, por lo cual lo espera otro proyecto de gran magnitud, el ministro del interior Joaquín V. Gonzales lo convoca para realizar el informe sobre las clases obreras, en el cual se adentrara en una aventura por todo el pais, para realizar una exhaustiva investigación sobre los derechos de los trabajadores de la República Argentina, a principios del siglo XX.
-
-<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 4. El estado de las industrias y los salarios
 
@@ -69,15 +63,11 @@ Por último, pero no menos importante, se exigía en aquella solicitud el recono
 **La respuesta del Estado** ante aquella creciente efervescencia fue, cuando menos, ambigua. A la intensificación de la protesta obrera opuso, por un lado, represión física, institucional y política —estado de sitio, ley de Residencia de 1902 (que autorizaba a deportar a los extranjeros que perturbaran el orden público)—. Pero, por otro lado, mostró cierto interés por comprender la coyuntura social en la que estas protestas se insertaban. El informe encargado a Juan Bialet Massé, para relevar el estado de los trabajadores en Argentina de entonces, pareciera dar cuenta de dicho interés, con miras a desarrollar una legislación apropiada al país y a la época.
 La malograda Ley Nacional del trabajo, en 1904.
 
-<blockquote>Autor de la sección: Gomez Villafañez, Denise Agostina</blockquote>
-
 ## 5. La duración de la jornada
 
 El tiempo de trabajo o duración de la jornada laboral era una de las principales manifestaciones que realizaba la clase obrera, ya que se buscaba que se limitara la extensión de las mismas, y tenían toda la razón, ya que el tiempo era excesivamente largo, por testimonios plasmados en el _Informe Sobre el Estado de las Clases Obreras_ se puede observar que algunos trabajadores tenían su jornada de trabajo de sol a sol, sumado a condiciones laborales que eran infrahumanas.
 A modo de ejemplo respecto a horas de trabajo, que variaban dependiendo el sector en donde se trabaje: En muchos oficios fabriles el día de trabajo podía alcanzar las doce horas, mientras que en el campo la jornada se extendía, prácticamente, de sol a sol. En los Ingenios, por mencionar un ejemplo, en época de cosecha se trabajaba durante catorce horas diarias. Sumado a los bajos salarios que percibían los trabajadores.
 El reclamo era evidente, reducir las horas de trabajo a 8 horas diarias y 48 semanales, si bien hubo varios intentos de la clase obrera para reducir esto, pero no se logro hasta que se sanciono la _Ley Nacional de Trabajo_, condiciones que persisten hasta la actualidad, en la cual se observan justamente las 8 horas diarias de trabajo.
-
-<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 6. Hedonismo y vicios del obrero
 
@@ -145,8 +135,6 @@ En 1909 la UGT socialista se disolvió para dar paso a la Confederación Regiona
 
 En esta década varios sindicatos iniciaron procesos de unificación a nivel nacional. En 1902 doce sindicatos de estibadores constituyeron la Federación Nacional de Obreros Portuarios, y siete sindicatos constituyeron la Federación de Obreros Albañiles. Lo mismo sucedió con la Federación de Obreros Agrícolas. A ellos se sumaban los sindicatos ferroviarios, cuya propia naturaleza los impulsaba a la organización nacional y que en 1896 habían organizado la primera huelga general de alcance nacional.
 
-<blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
-
 ## 8. Impuestos indirectos y su efecto sobre las distintas clases sociales
 
 En este apartado, lo primero que debemos hacer es identificar, ¿Qué son los impuestos indirectos? ¿Y los directos?
@@ -176,8 +164,6 @@ Si bien, y esto lo digo desde lo personal, no considero que se deba castigar al 
 Esta clase de falencias son atribuibles a muchos otros organismos estatales, como los educativos, lo cual hace que las clases obreras se sientan robadas por el Estado, que les cobra enormes porcentajes de lo poco que generan en impuestos, y que no se los retribuye como correspondería, lo que hace que la gente se sienta molesta con el cobro de impuestos, que le genere rencores innecesarios e injustificados contra la gente que genera más dinero mensualmente (y que contribuyen a expandir las grietas sociales), y que, siempre que pueda, busque evadir el pago de dichos gravámenes impositivos.
 
 Por otro lado, el tratamiento de este tipo de impuestos es complicado, dado que significan un importante porcentaje de los ingresos para los distintos gobiernos, con lo cual, los mismos no suelen verse dispuestos a disminuirlos, debido a que ello generaría una disminución en los ingresos públicos, que debería llevar a los gobiernos a reducir sus gastos, o bien, a recurrir a otras fuentes de financiamiento, aún a pesar de que la reducción de esta clase de impuestos sería de mucha ayuda para la población, especialmente para las clases sociales menos pudientes.
-
-<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
 
 ## 9. La mujer como sostén de la familia
 
@@ -224,8 +210,6 @@ En resumen, la desigualdad salarial de género en épocas anteriores estaba arra
 
 En la actualidad, el derecho a la igualdad de oportunidades entre hombres y mujeres es considerado en todos los planos de la vida social.
 
-<blockquote>Autor de la sección: Carla Magali Arroyo</blockquote>
-
 ## 11. Enfermedades comunes de la época
 
 Generalmente las enfermedades más comunes de la época, la sufría la clase obrera argentina, ya que estas eran producto de las malas condiciones en la cual estos eran sometidos, por ejemplo, las altas temperaturas, las cuales, en algunos casos, superaban los 50 grados.
@@ -250,8 +234,6 @@ Entre las enfermedades más comunes en la época encontramos:
 - Fiebre tifoidea
 - Fiebre amarilla
 - Cólera
-
-<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 12. Trabajo infantil
 
@@ -293,8 +275,6 @@ En cualquiera de estas modalidades los niños que trabajan están expuestos, de 
 Los niños son vulnerables ante cualquier exposición que amenace la integridad psicofísica o interfiera en su desempeño educativo. El trabajo infantil vulnera los derechos esenciales de los niños y no son ellos los que están en situación irregular, sino el sistema político institucional, que debe garantizar el pleno ejercicio de sus derechos. La erradicación del trabajo infantil requiere armonizar y complementar elementos estadísticos, legislativos, monitoreo, inspección, fortalecimiento e integración de los actores sociales, cumplimentar las políticas públicas y crear observatorios que puedan controlar las estrategias implementadas.
 Se necesitan medidas estructurales a largo plazo, como el incremento e inversión en la educación pública, mayor cobertura a la protección social y políticas nacionales que aseguren un trabajo digno para los adultos.
 
-<blockquote>Autor de la sección: Nieva, Agustina Soledad</blockquote>
-
 ## 13. Educación
 
 La educación en Argentina en esas épocas, a diferencia de nuestros días, era muy compleja de obtener, ya que recurrían y era necesario un alto costo de inversión, y más que nada para las clases obreras se hacía muy difícil, ya que los niños también debían trabajar para sustentar a la familia en modo de apoyo. Básicamente la educación era para unos cuantos. Y que problema el trabajo de los niños, ya que el estado buscaba una obligatoriedad en la educación, pero esto parecía remotamente imposible, por ende, el ministro del interior Gonzales, buscaba una solución a este problema, la cual era dictar la Ley Nacional de Trabajo, con el objetivo de eliminar la jornada laboral a los chicos menores de 14 años.
@@ -308,8 +288,6 @@ Más allá de la educación para los chicos, Massé habla sobre la educación de
 _Hubo un señor administrador de una empresa importante que vino de la India a ponerse al frente de la línea, y estaba en el pleno error de que el criollo argentino y los que vivíamos aquí éramos parias; le sucedieron varios chascos muy crudos; y uno conmigo, en un asunto en que intervine como abogado y en que se trataba de la construcción de una estación. Su altanería le bajó de la cabeza a los talones, cuando le increpé su falta de buena educación, su ignorancia y su calidad de sirviente de la empresa y del público que le pagaban, y como llevaba conmigo la ley de ferrocarriles, le leí el artículo 94, para que se enterara que aquí debía ser, por lo menos, atento con todos._
 
 Aquí la falta de conocimiento en el aspecto de leyes, no solo era para los patrones, sino el obrero lo sufría, como cuando no podía defenderse de los ataques de los patrones, y si se quisiera defender, necesitaría un abogado, el cual no podría costearlo básicamente.
-
-<blockquote>Autor de la sección: Vega, José Fabrizio</blockquote>
 
 ## 14. Cierre: Descripción general del estado de la clase obrera
 
@@ -336,5 +314,3 @@ La parte terrorífica de esto, es que, a más de cien años de un informe tan su
 - ¿Hemos alcanzado, por fin, esa Argentina utópica que tanto ofrecíamos al mundo hace cien años, o nos alejamos aún más de ella?
 
 Suponemos que las respuestas a estas cuestiones son tan diversas como personas habitan este país, pero que, como sea, dependen enormemente de un deseo personal de cada uno de nosotros por formarnos, aprender, mejorar y colaborar, para que, desde hoy y pensando en mañana, nuestra Argentina tenga el lugar de honor que se merece en el mundo, comenzando por tener una sociedad en óptimas condiciones de vida para que ello suceda.
-
-<blockquote>Autor de la sección: Moreno, Matías Santiago</blockquote>
