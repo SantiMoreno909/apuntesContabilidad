@@ -10,7 +10,7 @@ Fisiocracia significa _gobierno de la naturaleza_, y los seguidores de este pens
 
 ## La escuela económica de F. Quesnay
 
-Su principal integrante fue el médico Francisco Quesnay, que contaba con un grupo de intelectuales seguidores, quienes se encargaban periódicamente de publicas sus ideas e, incluso, continuaron difundiendolas tras su muerte. Estos pensadores creían, entre otras cosas, que la principal función del orden jurídico debía ser la protección de la propiedad individual, que la libertad era incompatible con la igualdad, que la desigualdad de posesiones por medio de la cual algunos tienen más derechos que otros es algo socialmente útil y natural en razón de las evidentes diferencias de talento que existe en los hombres.
+Su principal integrante fue el médico Francisco Quesnay, que contaba con un grupo de intelectuales seguidores, quienes se encargaban periódicamente de publicas sus ideas e, incluso, continuaron difundiendolas tras su muerte. Estos pensadores creían, entre otras cosas, que la principal función del orden jurídico debía ser la protección de la propiedad individual, que la libertad era incompatible con la igualdad, que la desigualdad de posesiones por medio de la cual algunos tienen más recursos que otros es algo socialmente útil y natural en razón de las evidentes diferencias de talento que existe en los hombres.
 
 A decir de Emile James, los Fisiócratas fueron los últimos autores que se perguntaron si determinadas ramas de la actividad económica podían contribuir a la riqueza del país mejor que otras. En esto nos centraremos al destacar el pensamiento de Quesnay.
 
