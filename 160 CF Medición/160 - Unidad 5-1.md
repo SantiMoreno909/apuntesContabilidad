@@ -1,4 +1,4 @@
-# Bolilla 5.1: Medición en distintos momentos para las disponibilidades
+# Bolilla 5: Medición en distintos momentos para las disponibilidades
 
 ## 5.1.1. Caja y Bancos
 
