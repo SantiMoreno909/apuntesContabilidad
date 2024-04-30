@@ -36,7 +36,7 @@ La enseñansa del **Cuadro Económico de Quesnay** está en que el ahorro, las c
 
 ## El origen de la Revolución Industrial
 
-La **Revolución Industrial** fue el resultado de una transformación económica y social ocurrida en Inglaterra producida entre 1.750 y 1.775 aproximadamente, y no solo una simple aceleración del crecimiento económico. Se trató de un crecimiento económico autosostenido por medio de una constante revolución tecnológica y una notable transformación social. NO ocurrió espontaneamente, sino que fue precedido por 200 años de constante crecimiento económico.
+La **Revolución Industrial** fue el resultado de una transformación económica y social ocurrida en Inglaterra producida entre 1.750 y 1.775 aproximadamente, y no solo una simple aceleración del crecimiento económico. Se trató de un crecimiento económico autosostenido por medio de una constante revolución tecnológica y una notable transformación social. No ocurrió espontaneamente, sino que fue precedido por 200 años de constante crecimiento económico.
 
 Inglaterra formaba parte de una economía muy amplia, en conjunto con los estados europeos y las economías dependientes de las colonias europeas en América y África, o en diversos puntos comerciales y dominados en Asia.
 
