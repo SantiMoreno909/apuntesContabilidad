@@ -6,7 +6,7 @@ Esta escuela de pensamiento surgió en Francia en el siglo XVIII, al igual que l
 
 Se pensaba que, cuando el hombre buscaba el interes personal, su progreso servía al interes general, por lo cual, el proceso de crecimiento del hombre debía ser libre y sin interferencias ni políticas ni de otro tipo, para que así el hombre pudiera actuar siguiendo su instinto natural de buscar su propio bien, colaborando, quizá sin notarlo, con el bienestar colectivo. Esta línea de pensamiento influyo notablemente en Adam Smith, fundador de la Escuela Clásica.
 
-Fisiocracia significa \_gobierno de la naturaleza, y los seguidores de este pensamiento adoptaron el nombre de **fisiócratas** debido a que, justamente, se había propuesto una teoría de la actividad económica fundamentada en el principio de que la naturaleza ejerce primacía sobre el hombre.
+Fisiocracia significa _gobierno de la naturaleza_, y los seguidores de este pensamiento adoptaron el nombre de **fisiócratas** debido a que, justamente, se había propuesto una teoría de la actividad económica fundamentada en el principio de que la naturaleza ejerce primacía sobre el hombre.
 
 ## La escuela económica de F. Quesnay
 
