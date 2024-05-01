@@ -104,7 +104,7 @@ Los más afectadpos negativamente fueron las clases trabajadoras pobres, cuyo mu
 
 ### Los perjudicados
 
-La Revolución Industrial sustituyó al dependiente por el operario, impuso una regularidad rutinaria y monótona completamente distinta a los ritmos pre industriales. En la era industrial, la máquina era quien señalaba el ritmo de trabajo, forzando a la aplicación de disciplina laboral y sanciones, con leyes laborales que permitían encarcelar a los obreros si estos rompían los contratos, pero que solo sancionaba a los patrones si hacían lo mismo, y con salarios tan bajos que el trabajo debía ser ininterrumpido y constante para que los obreros pudieran ganar el suficiente dinero para su sustento.
+La Revolución Industrial sustituyó al dependiente por el operario, e impuso una regularidad rutinaria y monótona completamente distinta a los ritmos pre industriales. En la era industrial, la máquina era quien señalaba el ritmo de trabajo, forzando a la aplicación de disciplina laboral y sanciones, con leyes laborales que permitían encarcelar a los obreros si estos rompían los contratos, pero que solo sancionaba a los patrones si hacían lo mismo, y con salarios tan bajos que el trabajo debía ser ininterrumpido y constante para que los obreros pudieran ganar el suficiente dinero para su sustento.
 
 Se marcó, además, un enorme éxodo de los campos hacia las ciudades, donde, para 1.850, vivían la mayoría de los ingleses, así como una marcada distancia entre los ricos y los pobres.
 
