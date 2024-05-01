@@ -100,7 +100,7 @@ Así, la industrialización británica afecto poco y nada a la aristocracia y a 
 
 Estaba surgiendo, por tanto, una sociedad individualista, con unidades familiares capaces de satisfacer sus necesidades materiales y morales, en base al negocio privado.
 
-Los más afectadpos negativamente fueron las clases trabajadoras pobres, cuyo mundo y formas de vida tradicionales fueron destruidos por la Revolución Industrial, sin que obtuvieran nada a cambio.
+Los más afectados negativamente fueron las clases trabajadoras pobres, cuyo mundo y formas de vida tradicionales fueron destruidos por la Revolución Industrial, sin que obtuvieran nada a cambio.
 
 ### Los perjudicados
 
