@@ -6,11 +6,11 @@ Esta escuela de pensamiento surgió en Francia en el siglo XVIII, al igual que l
 
 Se pensaba que, cuando el hombre buscaba el interes personal, su progreso servía al interes general, por lo cual, el proceso de crecimiento del hombre debía ser libre y sin interferencias ni políticas ni de otro tipo, para que así el hombre pudiera actuar siguiendo su instinto natural de buscar su propio bien, colaborando, quizá sin notarlo, con el bienestar colectivo. Esta línea de pensamiento influyo notablemente en Adam Smith, fundador de la Escuela Clásica.
 
-Fisiocracia significa \_gobierno de la naturaleza, y los seguidores de este pensamiento adoptaron el nombre de **fisiócratas** debido a que, justamente, se había propuesto una teoría de la actividad económica fundamentada en el principio de que la naturaleza ejerce primacía sobre el hombre.
+Fisiocracia significa _gobierno de la naturaleza_, y los seguidores de este pensamiento adoptaron el nombre de **fisiócratas** debido a que, justamente, se había propuesto una teoría de la actividad económica fundamentada en el principio de que la naturaleza ejerce primacía sobre el hombre.
 
 ## La escuela económica de F. Quesnay
 
-Su principal integrante fue el médico Francisco Quesnay, que contaba con un grupo de intelectuales seguidores, quienes se encargaban periódicamente de publicas sus ideas e, incluso, continuaron difundiendolas tras su muerte. Estos pensadores creían, entre otras cosas, que la principal función del orden jurídico debía ser la protección de la propiedad individual, que la libertad era incompatible con la igualdad, que la desigualdad de posesiones por medio de la cual algunos tienen más derechos que otros es algo socialmente útil y natural en razón de las evidentes diferencias de talento que existe en los hombres.
+Su principal integrante fue el médico Francisco Quesnay, que contaba con un grupo de intelectuales seguidores, quienes se encargaban periódicamente de publicas sus ideas e, incluso, continuaron difundiendolas tras su muerte. Estos pensadores creían, entre otras cosas, que la principal función del orden jurídico debía ser la protección de la propiedad individual, que la libertad era incompatible con la igualdad, que la desigualdad de posesiones por medio de la cual algunos tienen más recursos que otros es algo socialmente útil y natural en razón de las evidentes diferencias de talento que existe en los hombres.
 
 A decir de Emile James, los Fisiócratas fueron los últimos autores que se perguntaron si determinadas ramas de la actividad económica podían contribuir a la riqueza del país mejor que otras. En esto nos centraremos al destacar el pensamiento de Quesnay.
 
@@ -36,7 +36,7 @@ La enseñansa del **Cuadro Económico de Quesnay** está en que el ahorro, las c
 
 ## El origen de la Revolución Industrial
 
-La **Revolución Industrial** fue el resultado de una transformación económica y social ocurrida en Inglaterra a partir de 1770-1775 aproximadamente, y no solo una simple aceleración del crecimiento económico. Se trató de un crecimiento económico autosostenido por medio de una constante revolución tecnológica y una notable transformación social. NO ocurrió espontaneamente, sino que fue precedido por 200 años de constante crecimiento económico.
+La **Revolución Industrial** fue el resultado de una transformación económica y social ocurrida en Inglaterra producida entre 1.750 y 1.775 aproximadamente, y no solo una simple aceleración del crecimiento económico. Se trató de un crecimiento económico autosostenido por medio de una constante revolución tecnológica y una notable transformación social. No ocurrió espontaneamente, sino que fue precedido por 200 años de constante crecimiento económico.
 
 Inglaterra formaba parte de una economía muy amplia, en conjunto con los estados europeos y las economías dependientes de las colonias europeas en América y África, o en diversos puntos comerciales y dominados en Asia.
 
@@ -100,11 +100,11 @@ Así, la industrialización británica afecto poco y nada a la aristocracia y a 
 
 Estaba surgiendo, por tanto, una sociedad individualista, con unidades familiares capaces de satisfacer sus necesidades materiales y morales, en base al negocio privado.
 
-Los más afectadpos negativamente fueron las clases trabajadoras pobres, cuyo mundo y formas de vida tradicionales fueron destruidos por la Revolución Industrial, sin que obtuvieran nada a cambio.
+Los más afectados negativamente fueron las clases trabajadoras pobres, cuyo mundo y formas de vida tradicionales fueron destruidos por la Revolución Industrial, sin que obtuvieran nada a cambio.
 
 ### Los perjudicados
 
-La Revolución Industrial sustituyó al dependiente por el operario, impuso una regularidad rutinaria y monótona completamente distinta a los ritmos pre industriales. En la era industrial, la máquina era quien señalaba el ritmo de trabajo, forzando a la aplicación de disciplina laboral y sanciones, con leyes laborales que permitían encarcelar a los obreros si estos rompían los contratos, pero que solo sancionaba a los patrones si hacían lo mismo, y con salarios tan bajos que el trabajo debía ser ininterrumpido y constante para que los obreros pudieran ganar el suficiente dinero para su sustento.
+La Revolución Industrial sustituyó al dependiente por el operario, e impuso una regularidad rutinaria y monótona completamente distinta a los ritmos pre industriales. En la era industrial, la máquina era quien señalaba el ritmo de trabajo, forzando a la aplicación de disciplina laboral y sanciones, con leyes laborales que permitían encarcelar a los obreros si estos rompían los contratos, pero que solo sancionaba a los patrones si hacían lo mismo, y con salarios tan bajos que el trabajo debía ser ininterrumpido y constante para que los obreros pudieran ganar el suficiente dinero para su sustento.
 
 Se marcó, además, un enorme éxodo de los campos hacia las ciudades, donde, para 1.850, vivían la mayoría de los ingleses, así como una marcada distancia entre los ricos y los pobres.
 
