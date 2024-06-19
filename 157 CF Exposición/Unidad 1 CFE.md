@@ -8,11 +8,11 @@ En cuanto a sus **objetivos**, la contabilidad tiene como tales la medición del
 
 ## Etapas del proceso contable
 
-### 1\_ La captación de datos
+### 1. La captación de datos
 
 En este punto se utiliza un soporte llamado **comprobante**, que es un formulario donde se vuelcan los datos de los hechos económicos. Un **Hecho Económico** es aquel que tenga impacto patrimonial, financiero y economico en la organización. Los datos recibidos pueden ser generados tanto dentro de la empresa como fuera de ella.
 
-### 2\_ Proceso contable propiamente dicho
+### 2. Proceso contable propiamente dicho
 
 Es donde se procesan estos datos para transformarlos en información contable. Se desarrollan cuatro funciones:
 
@@ -23,7 +23,7 @@ Es donde se procesan estos datos para transformarlos en información contable. S
 
 En esta etapa los soportes de almacenamiento de la información son las cuentas y los registros contables. Los registros **obligatorios** por ley son el **Libro Diario General** y el **Libro de Inventarios y Balances**. Como _no obligatorio_, tenemos al Libro Mayor, que, en caso de servir como medio de prueba, pasa a ser considerado obligatorio.
 
-### 3\_ Salida de la información contable
+### 3. Salida de la información contable
 
 En esta etapa se pone a conocimiento y disposición de los usuarios la información contable útil. El soporte de salida de la información son los **Estados Contables**, que comprenden los **Estados Contables Básicos** (ESP, ER, EEPN y EFE), y la **Información complementaria** (Notas, anexos y encabezado).
 
